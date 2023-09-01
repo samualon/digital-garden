@@ -1,6 +1,6 @@
 ---
-dg-publish: true
-Aliases: Psychologische toestanden
+aliases:
+  - Psychologische toestanden
 ---
 ## Definitie
 Dit zijn toestanden van ons denken die niet publiekelijk toegankelijk en subjectief zijn. Enkel wij hebben rechtstreeks toegang tot deze toestanden. Anderen kunnen wel onrechtstreeks toegang hebben tot onze mentale toestanden door bijvoorbeeld onze woorden en daden.

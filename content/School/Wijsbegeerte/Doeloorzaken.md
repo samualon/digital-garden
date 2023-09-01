@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Definitie
 Een doeloorzaak is een oorzaak die tegelijkertijd dienstdoet als doel. Het is dus een oorzaak die in de toekomst ligt. 
 

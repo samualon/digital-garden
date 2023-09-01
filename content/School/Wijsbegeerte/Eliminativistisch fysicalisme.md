@@ -1,6 +1,6 @@
 ---
-dg-publish: true
-Aliases: Eliminativisme
+aliases:
+  - Eliminativisme
 ---
 Eliminativistisch fysicalisme, ook wel eliminativisme, is de radicale variant van het [[Fysicalisme]]. Hierbinnen gelooft men niet dat mentale fenomenen bestaan. Volgens hen hoort dit deel van onze opvatting over geest en lichaam te worden geëlimineerd.
 

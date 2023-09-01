@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Men hanteert hierbij familiekenmerken en prototypes om families aan ziekten te creëren. [[Pluralisme|Pluralisten]] beweren dat er bepaalde prototypes (versta schoolvoorbeelden) bestaan van ziektes. Vaak zullen meerdere fenomenen hier dichtbij aansluiten en zo een soort familie van een soort ziekte creëren. Niet alle ziekten zullen alle kenmerken delen, maar ze hebben wel veel gelijkenissen. 
 
 ## Problemen bij deze visie

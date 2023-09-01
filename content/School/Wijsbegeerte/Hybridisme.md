@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Ziekte en Hybridisme
 Hybridisten geloven dat een ziekte een schadelijke disfunctie is. [[Jerome Wakefield]] beweerde dat hierbij de twee voorwaarden voor ziekte moeten voldaan zijn:
 1. [[Schade-voorwaarde]] 

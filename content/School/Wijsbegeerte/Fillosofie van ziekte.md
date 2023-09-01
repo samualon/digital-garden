@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Een typische [[Metafysica|metafysische]] vraag die we kunnen stellen is wat iets een ziekte maakt.
 
 Via [[Intuïtie]] kunnen we twee voorwaarden stellen opdat iets als ziekte kan benoemd worden:

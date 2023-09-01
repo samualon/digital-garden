@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Er zijn verschillende voorstellen geweest voor het oplossen van het [[Demarcatieprobleem]]. Hieronder staan eerst drie problematische oplossingen en dan twee oplossingen die vandaag de dag nog relevant zijn.
 
 ## Problematische oplossingen

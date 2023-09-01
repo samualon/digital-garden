@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Definitie
 Een niet meer tot ontwikkeling komend lichaamsdeel of orgaan bij planten en dieren.
 

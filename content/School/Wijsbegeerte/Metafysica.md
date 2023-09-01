@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Definitie
 De studie van de aard en de structuur van de wereld. De meeste vragen binnen metafysica gaan over wat het betekent om te bestaan.
 

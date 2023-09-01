@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Dit is een dualistische opvatting van [[René Descartes]] die stelt dat het lichaam materieel is, de geest immaterieel is en dat deze daarom volledig onafhankelijk zijn.
 ## Uitleg
 [[René Descartes]]  stelde dat omdat hij denkt ('Je pense') hij een onbetwijfelbaarheid heeft dat hij een denkende substantie is. Dit verschilt van een materiële substantie, dus moet het denken en het lichamelijke verschillend zijn van elkaar.

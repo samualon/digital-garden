@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Op heden spreekt men niet meer over [[Doelgerichtheid]] maar over functies. Functies wijzen echter op een aanwezigheid van normen, aangezien een functie inhoudt dat het ding iets hoort te doen.
 
 ## Functies

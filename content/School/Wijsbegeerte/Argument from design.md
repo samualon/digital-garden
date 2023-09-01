@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 The argument from design maakt gebruik van twee premissen om te concluderen dat er een designer/schepper/god is.
 
 Premise 1 | Premise  2 | Conclusie

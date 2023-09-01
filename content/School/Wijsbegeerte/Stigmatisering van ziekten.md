@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Proces
 Stigmatisering van ziekten verloopt in 3 fasen:
 1. **Stereotypes**: bepaalde groepen worden gegeneraliseerd.

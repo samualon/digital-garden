@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 [[Plato]] en [[Epicurus]] schuiven twee visies naar voren die van de dood een oplosbaar probleem maken.
 
 ## Plato's visie op de dood

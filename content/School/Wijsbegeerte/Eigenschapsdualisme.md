@@ -1,6 +1,6 @@
 ---
-dg-publish: true
-Aliases: Niet-reductionisme
+aliases:
+  - Niet-reductionisme
 ---
 Deze filosofie, ook wel het niet-reductionisme, binnen het dualisme gaat er van uit dat er slechts één ding is, een fysische substantie, maar dat deze twee verschillende klassen van eigenschappen heeft (van het brein):
 1. [[Mentale toestanden]]

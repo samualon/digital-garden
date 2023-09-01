@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Definitie
 Moeilijk om te definiëren, maar proberen beantwoorden aan de hand van drie aspecten:
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Mechanisering houdt in het ontdoen van de [[Doeloorzaken]] in de werkelijkheid.
 
 De [[Wetenschappelijke revolutie]] tijdens de zventiende eeuw was een kantelpunt voor de intellectuele wereld, dankzij de opkomst van de natuurwetenschappen. Deze revolutie steunde op twee zaken:

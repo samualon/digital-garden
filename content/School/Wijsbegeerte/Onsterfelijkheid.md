@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Door het kwade van de dood hebben veel mensen een [[Intuïtie|intuïtieve]] drang om onsterfelijk te willen zijn. Verschillende filosofen gaven hierop als antwoord dat onsterfelijkheid alle druk wegneemt uit het leven en men dus geen drang/haast meer zou hebben om dingen te verwezelijken. Zowel [[Bernard Williams]] en [[Martin Heidegger]] geven hier een visie op.
 
 ## Bernard Williams en onsterfelijkheid

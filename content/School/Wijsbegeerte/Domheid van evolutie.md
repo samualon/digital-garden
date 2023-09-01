@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Volgens [[Natuurlijke theologie|natuurtheologen]] als [[William Paley]] betekent een design dat er een slimme designer was. [[Charles Darwin]] trachtte daarom doelgerichtheid te verklaren aan de hand van domheid.
 
 ## [[Natuurlijke selectie]]

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Ziekte en normativisme
 Normativisten bestempelen iets als schade indien de maatschappij oordeelt dat het gaat over een onwenselijke of schadelijke toestand waarin men zich bevindt. Zij geloven sterk in de [[Schade-voorwaarde]] van ziekte.
 

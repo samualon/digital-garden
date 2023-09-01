@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Definitie
 Een quale (meerder qualia) is het subjectieve aspect van een bepaalde mentale toestand.
 

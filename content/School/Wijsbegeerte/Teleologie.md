@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Definitie
 Het beschrijven en verklaren van fenomenen aan de hand van [[Doelgerichtheid]] en [[Doelmatigheid]].
 

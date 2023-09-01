@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Het demarcatieprobleem is de moeilijkheid om het verschil te definiëren tussen echte wetenschap en pseudowetenschap.
 
 Tijdens de [[Wetenschappelijke revolutie]] was de afbakening tussen wat wetenschap is en wat pseudowetenschap is minder duidelijk dan we vandaag denken. Het is moeilijk om een duidelijke scheiding te definiëren

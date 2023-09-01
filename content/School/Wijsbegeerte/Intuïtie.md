@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Definitie
 Kennis die op een onmiddelijke manier wordt verkregen.
 

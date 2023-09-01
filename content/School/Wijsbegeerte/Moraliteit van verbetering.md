@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Argumenten tegen verbetering
 Er zijn drie typische argumenten tegen verbetering:
 1. Menselijke natuur

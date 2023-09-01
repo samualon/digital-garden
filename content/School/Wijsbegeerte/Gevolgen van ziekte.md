@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Het [[World Health Organisation|WHO]] gebruikt de ICIDH als classificatie van mogelijke gevolgen van de ziekten beschreven in hun classificatie ICD.
 
 De ruggengraat van het ICIDH wordt gevormd door drie begrippen:

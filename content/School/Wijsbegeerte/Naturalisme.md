@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Het naturalisme is de overtuiging dat mensen en hun mentale vermogens deel uitmaken van de natuurlijke wereld zoals verklaard en beschreven door (natuur)wetenschappers. Ze geloven dus niet in [[Geestesspul]].
 
 ## Ziekte en naturalisme

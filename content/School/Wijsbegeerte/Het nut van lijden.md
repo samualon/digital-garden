@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Zoals staat in [[Oplossingen voor de dood]] bij de nuance op [[Epicurus]] visie op de dood is de dood op zich vaak niet het probleem, maar wel het lijden dat ermee gepaard gaat. 
 
 Zowel uit religieus als niet-religieus perspectief kunnen we redenen geven waarom lijden een nut zou hebben.

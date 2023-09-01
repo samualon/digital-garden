@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Een tak van de [[Epistemologie]]. Deze kan verder opgedeeld worden in twee takken. De algemen en de toegepaste wetenschapsfilosofie.
 
 ## Algemene wetenschapsfilosofie

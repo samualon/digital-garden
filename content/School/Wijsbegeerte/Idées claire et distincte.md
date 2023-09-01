@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Definitie
 Idéen/gedachten die onbetwijfelbaar zijn waardoor ze dus moeten kloppen en een goed fundament kunnen zijn voor filosofisch denken.
 

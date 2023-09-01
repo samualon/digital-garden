@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Definitie
 De overmatige bemoeienis van de geneeskunde. Het verschilt van [[Pathologisering]] doordat het gaat over een toestand waar geen aandacht aan werd gegeven nu wel aandacht aan wordt gegeven. Het gaat niet over toestanden als nieuwe ziektes zien.
 

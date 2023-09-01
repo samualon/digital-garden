@@ -1,6 +1,6 @@
 ---
-dg-publish: true
-Aliases: Julien Offray de La Mettrie
+aliases:
+  - Julien Offray de La Mettrie
 ---
 Julien Offray de La Mettrie was een Franse geneesheer en filosoof vooral bekend door zijn werk [[L'homme machine]]. Hierin geeft hij kritiek op het dualisme van [[René Descartes]]  en bouwt hij aan de basis voor het [[Materialisme]]. 
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Drie types van [[Inwendige doelen|inwendige natuurlijke doelen]]:
 1. **Organismen genereren kopieën van zichzelf**: een olifant maakt een olifant, een vlieg maakt een vlieg, etc.
 2. **Organismen zetten datgene wat verschilt van zichzelf om in een deel van zichzelf**: organismen voederen zich.

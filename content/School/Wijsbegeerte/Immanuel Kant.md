@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Achttiende-eeuwse Duitse filosoof.
 ![[Pasted image 20230827125951.png]]
 

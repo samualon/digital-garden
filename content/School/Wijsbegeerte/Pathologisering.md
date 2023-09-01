@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Definitie
 Toestanden die eerder niet als ziekte werden gezien nu wel als ziekte zien. Dit verschilt van [[Medicalisering]], waarbij men geen nieuwe ziektes definieert, maar ze enkel meer aandacht geeft.
 

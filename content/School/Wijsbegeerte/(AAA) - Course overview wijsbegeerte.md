@@ -1,7 +1,3 @@
----
-dg-publish: true
-dg-home: true
----
 Materie:
 1. Wat is [[Filosofie]] 
 2. [[Mechanisering van het wereldbeeld|Mechanisering]] en [[Doelgerichtheid]] 

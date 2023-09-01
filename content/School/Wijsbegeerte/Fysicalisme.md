@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Een filosofische veronderstelling die stelt dat alles fysisch is, en dat immateriële eigenschappen – zaken van biologische, psychologische, morele of sociale aard – voortkomen uit het fysische. Ook mentale toestanden zijn dus volgens fysicalisten fysisch.
 
 Er bestaan twee soorten fysicalisme:

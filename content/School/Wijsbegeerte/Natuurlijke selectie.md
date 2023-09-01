@@ -1,6 +1,6 @@
 ---
-dg-publish: true
-Aliases: Principe van behoud
+aliases:
+  - Principe van behoud
 ---
 
 Een mechanisme beschreven door [[Charles Darwin]] die de evolutie aandrijft. 

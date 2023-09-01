@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Definitie
 Een probleem visualiseren en op die manier nieuwe kennis/inzichten opdoen, zonder empirische data.
 

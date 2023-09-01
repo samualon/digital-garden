@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Oude grieken
 In 600 B.C. werden in het oude Griekenland de eerste democratische wetten ingevoerd. Wetten werden dus niet meer van bovenaf beslist, maar lagen open ter discussie.
 

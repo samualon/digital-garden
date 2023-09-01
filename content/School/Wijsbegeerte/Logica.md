@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Definitie
 De studie die uitlegt wat het betekent om deugdelijk te redeneren en te argumenteren.
 

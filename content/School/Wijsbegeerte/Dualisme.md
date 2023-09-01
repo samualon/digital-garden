@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Het geloof in twee naast elkaar bestaande grondbeginselen. 
 
 Volgens dualisten zijn [[Mentale toestanden]] en hersentoestanden zodanig verschillend dat ze niet kunnen samenvallen.

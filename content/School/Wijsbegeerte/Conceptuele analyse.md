@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Definitie
 Belangrijke begrippen ontleden in meer eenvoudige begrippen.
 

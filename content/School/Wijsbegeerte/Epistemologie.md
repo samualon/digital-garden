@@ -1,6 +1,7 @@
 ---
-dg-publish: true
-Aliases: kennisleer, Kennisleer
+aliases:
+  - kennisleer
+  - Kennisleer
 ---
 ## Definitie
 De studie over de aard, de structuur en de mogelijkheid van onze kennis.
