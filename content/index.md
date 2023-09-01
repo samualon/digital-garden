@@ -1,3 +1,6 @@
+---
+title: Index
+---
 ## School
 - [[(AAA) - Course overview wijsbegeerte|Wijsbegeerte]]
 - [[(AAA) - Course overview PLM|Productie- en logistiekmanagement]]
