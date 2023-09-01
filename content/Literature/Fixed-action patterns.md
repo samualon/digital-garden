@@ -1,0 +1,1 @@
+[[Click-and-run]]-like behavior in which a fixed sequence of actions can be triggered by a single action or piece of information. This phenomenon can be exploited because of the human tendency to use [[Judgmental heuristics]] in decision making. These possible triggers offer 'levers' to influence our behavior.

@@ -1,0 +1,1 @@
+Bedrijven hebben sterk op elkaar lijkende technologie.

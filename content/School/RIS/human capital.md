@@ -1,0 +1,2 @@
+## Definition
+De voorraad van competenties, kennis, sociale en persoonlijke vaardigheden, waaronder ook creativiteit, die wordt belichaamd in de mogelijkheid voor de mens om in een economie arbeid te verrichten, opdat er economische waarde kan worden geproduceerd.

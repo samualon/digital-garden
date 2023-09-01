@@ -1,0 +1,1 @@
+A region with a big emphasis on the role played by cooperation and collective learning in regional clusters and networks in order to promote the innovativeness and competitiveness of firms and regions
