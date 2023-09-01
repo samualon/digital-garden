@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Digital garden
 ---
 
 Welkom in mijn digitale tuin:
