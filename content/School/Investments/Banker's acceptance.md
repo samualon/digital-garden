@@ -1,0 +1,1 @@
+A bank promise to pay a certain amount of money.

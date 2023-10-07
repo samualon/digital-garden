@@ -1,0 +1,4 @@
+---
+aliases:
+  - Federal municipal bonds
+---

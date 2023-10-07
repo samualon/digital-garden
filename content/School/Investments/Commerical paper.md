@@ -1,0 +1,1 @@
+Short-term unsecured debt obligation with a big company. Similar to a [[Treasury bill]] but against a company, not the government.

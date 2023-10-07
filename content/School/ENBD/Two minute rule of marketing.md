@@ -1,0 +1,1 @@
+When asking for peoples time, in a pitch or an interview on the street, we should limit the time to two minutes such that answers are kept of high quality.

@@ -1,0 +1,1 @@
+Government debt with interest adjusted for inflation.

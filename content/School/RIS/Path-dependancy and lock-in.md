@@ -10,7 +10,7 @@ Path-dependancy could result in the region being 'locked-in' a certain devolopme
 
 ## Important mechanisms of lock-in
 1. [[Technological interrelatedness]]
-2. [[economies of scale|Economies of scale]]
+2. [[Economies of scale|Economies of scale]]
 3. Quasi irreversibility of investments
 
 ## Escaping path-dependancy with policy

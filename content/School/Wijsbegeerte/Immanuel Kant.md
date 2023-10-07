@@ -1,6 +1,8 @@
 Achttiende-eeuwse Duitse filosoof.
-![[Pasted image 20230827125951.png]]
 
+| Naam              | Foto |
+| ----------------- | ---- |
+| Immanuel Kant | ![[Pasted image 20230827125951.png]]     |
 ## De [[Wetenschappelijke revolutie]] 
 Kant was ervan overtuigd dat er nooit een 'Newton van de biologie' zou gevonden worden. Hoewel Newton cruciaal was in het begrijpen van het levensloze binnen de revolutie, is deze theorie ontoereikend voor levende natuur.
 

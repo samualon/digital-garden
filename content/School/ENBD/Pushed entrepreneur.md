@@ -1,0 +1,1 @@
+Someone that is being pushed to be an [[Entrepreneurship|Entrepreneur]] in order to make money to live. You're being pushed to be an [[Entrepreneurship|Entrepreneur]] (typical for immigrants).

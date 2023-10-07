@@ -1,0 +1,1 @@
+This is a [[Hybrid fund]] which engages in market timing by actively balancing the mix between stocks and fixed-income bonds, as apposed to a [[Balanced fund]].

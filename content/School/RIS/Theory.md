@@ -1,5 +1,5 @@
 ## Regional agglomeration and economies of scale
-Economische activiteit binnen de agriculturele of productiesector zijn sterk geconcentreerd en verspreid. Deze concentratie creërde [[gespecialiseerde arbeidsmarkten]] op die plaatsen. Dit zorgde voor [[economies of scale]]. 
+Economische activiteit binnen de agriculturele of productiesector zijn sterk geconcentreerd en verspreid. Deze concentratie creërde [[gespecialiseerde arbeidsmarkten]] op die plaatsen. Dit zorgde voor [[Economies of scale]]. 
 
 ## Scale economies and externalities
 Bij sterke geografische concentratie doen zich [[Externalities]] voor. Twee soorten externalities:

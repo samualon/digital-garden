@@ -18,7 +18,7 @@ Anchor tenants creëren positieve [[Externalities]] voor alle organisaties in de
 ## Rol van een anchor organisation
 Het aantrekken van:
 1. Talent en expertise
-2. Financieel kapitaal en [[start-ups]]
+2. Financieel kapitaal en [[Start-up|Start-ups]]
 
 Deze twee zaken zorgen voor:
 1. Knowledge specialization

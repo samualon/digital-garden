@@ -1,0 +1,1 @@
+Time deposit at a bank (= een termijnrekening).
