@@ -32,7 +32,7 @@ This part consists of two components:
 We can use [[Porter's five forces]] to assess the attractiveness of the industry and target market.
 ## Organizational feasibility
 This part assesses if the organisational team has enough expertise, organizational competence and non-financial resources and consists of two parts:
-1. Management prowess: the team should have passion for the business opportunity
+1. Management prowess[¹]: the team should have passion for the business opportunity
 2. Resource sufficiency
 ## Financial feasibility
 This preliminary financial assessment consists of three components:
@@ -43,4 +43,4 @@ This preliminary financial assessment consists of three components:
 	2. Recurring revenue?
 	3. Internally generated funds to sustain growth?
 
-
+[¹]: Prowess: 'dapperheid'  

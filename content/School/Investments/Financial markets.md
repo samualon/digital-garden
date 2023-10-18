@@ -5,6 +5,6 @@ Financial markets allow us to:
 - Allocate resources efficiently to the most productive investments
 
 In this course we limit us to two categories of instruments:
-- [[Money market instruments]]
+- [[Money market instrument]]
 - [[Captial market instruments]]
 

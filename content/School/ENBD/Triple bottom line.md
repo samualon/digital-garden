@@ -1,0 +1,3 @@
+People
+Planet
+Profit

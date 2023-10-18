@@ -36,6 +36,7 @@ Your [[Business model]] is the whole of your business in a nutshell. It talks ab
 1. Introduction
 2. [[Lean start-up method]]
 3. [[Methods to test hypotheses]]
+4. [[Business model innovation]]
 
 ## Cases
 - [[Boo.com]] 
