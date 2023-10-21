@@ -4,7 +4,7 @@ Moeilijk om te definiëren, maar proberen beantwoorden aan de hand van drie aspe
 ### Attitude
 Filosofen zijn kritisch en gaan alledaagse zaken in vraag stellen.
 
-Bijvoorbeeld [[René Descartes]] die aan de hand van de [[Müller-Lyer illusie.png]] het volgende aantoont: aangezien deze illusie werkt kunenn we concluderen dat onze zintuigen onbetrouwbaar zijn. We gebruiken onze zintuigen om nieuwe inzichten en kennis te vergaren, dus is onze kennis ook onbetrouwbaar.
+Bijvoorbeeld [[René Descartes]] die aan de hand van de [[Müller-Lyer illusie.png|Müller-Lyer illusie]] het volgende aantoont: aangezien deze illusie werkt kunnen we concluderen dat onze zintuigen onbetrouwbaar zijn. We gebruiken onze zintuigen om nieuwe inzichten en kennis te vergaren, dus is onze kennis ook onbetrouwbaar.
 
 Er zijn echter twee nuances bij de kritiek van filosofen:
 1. Kritiek is niet het einddoel van filosofie.

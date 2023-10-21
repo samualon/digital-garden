@@ -1,0 +1,1 @@
+This means that a person who is risk-averse always want a higher pay-off when a higher risk in introduced to an investment. 

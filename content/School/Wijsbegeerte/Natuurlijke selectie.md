@@ -2,7 +2,6 @@
 aliases:
   - Principe van behoud
 ---
-
 Een mechanisme beschreven door [[Charles Darwin]] die de evolutie aandrijft. 
 
 Er zijn drie premissen die indien waar de redenering van natuurlijke selectie zou ondersteunen:

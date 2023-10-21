@@ -23,23 +23,7 @@ There are two types of environment in entrepreneurship:
 - [[Social entrepreneurship]]
 - [[Nascent entrepreneurship]]
 ## Characteristics of a successful entrepreneur
-### Core characteristics
-There are several characteristics that are necessary to be successful as an entrepreneur:
-- Passion for the business
-- Product-customer focus
-- Tenacity despite failure[¹]
-
-[¹]:x The EU and the USA have different views on failure. In the EU, failure of an entrepreneur is stigmatized. In the USA, failure is seen as a part of the development of an entrepreneur.
-
-### Secondary characteristics
-These characteristics may help, but aren't crucial to becoming an entrepreneur:
-- Prior industry experience:
-	- Helps recognize and evaluate opportunities
-	- Has a network
-- Prior entrepreneurial experience: will avoid costly mistakes
-- Social networks: [[Strong ties and weak ties]]
-- Higher education
-- Creativity
+![[Characteristics of an entrepreneur#Core characteristics]]
 
 ## Common myths
 ### Entrepreneurs are gamblers
