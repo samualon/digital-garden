@@ -4,13 +4,17 @@
 - ![[Orderpunt]]
 - M* bij EOI-model:
 
-$$ M* = D(T* + L) $$
+$$
+M* = D(T* + L) 
+$$
 
 ## Stochastische voorraadmodellen 
 - ![[Gemiddelde voorraad (recupereerbaar)]]
 - ![[Gemiddelde voorraad (verloren)]]
 - (OP, Q) -model
-$$ P(DDLT>OP) = 1 - F_{DDLT}(x) $$
+$$ 
+P(DDLT>OP) = 1 - F_{DDLT}(x) 
+$$
 - ![[(S, s) -model]]
 
 ## Schatten van de doorlooptijd

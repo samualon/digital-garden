@@ -40,11 +40,15 @@ $t_e$ , $C_e$  en $\tau$ zijn variabelen specifiek aan de machines, de andere va
 Wanneer we de $E(W_1)$ willen berekenen kan dat simpelweg via de formule op het formularium met $C_e^2(1)$ en $\rho(1)$.
 
 Voor de tweede machine moeten we een $C_a$(2) berekenen aan de hand van de verbindingsvergelijking:
-$$ C_a^2(2) = C_d^2(1) = \rho^2(1) C_e^2(1) + (1 - \rho^2(1)) C_a^2 $$
+$$ 
+C_a^2(2) = C_d^2(1) = \rho^2(1) C_e^2(1) + (1 - \rho^2(1)) C_a^2 
+$$
 
 ## Belangrijke observaties
 ### Wet van Little
-$$ E(L) = E(W) * \lambda $$
+$$ 
+E(L) = E(W) * \lambda 
+$$
 Met:
 $E(L) =$ gemiddelde voorraad
 $E(W) =$ gemiddelde doorlooptijd
@@ -58,6 +62,10 @@ Methode:
 
 ### Ordergrootte bepaling
 Als $\rho < 1$:
-$$ Q* = \frac{t_e \tau + \sqrt{t_a t_e \tau^2}}{t_e t_a - t_e^2} $$
+$$
+Q* = \frac{t_e \tau + \sqrt{t_a t_e \tau^2}}{t_e t_a - t_e^2} 
+$$
 Indien $\rho$ groter zou zijn dan 1, dan is de bestelgrootte waarvoor de bezetting toch onder 1 zou zijn, de kritieke ordergrootte:
-$$ Q_{kritiek} = \frac{\tau}{t_a - t_e} $$
+$$
+Q_{kritiek} = \frac{\tau}{t_a - t_e} 
+$$

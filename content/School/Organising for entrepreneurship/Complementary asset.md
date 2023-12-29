@@ -1,0 +1,1 @@
+The assets necessary to commercialize your business.

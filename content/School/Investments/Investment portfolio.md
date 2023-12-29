@@ -1,5 +1,7 @@
 An investment portfolio is an investment in multiple assets at once. The return of the portfolio is measured using a weighted average of all the returns of the assets. This weight, $w_n$, represents the fraction of the value of the asset $n$ in the portfolios total value:
-$$ R_{p,t} = \sum^N_{n=1}w_n R_{n,t}$$
+$$ 
+R_{p,t} = \sum^N_{n=1}w_n R_{n,t}
+$$
 ## Negative weights
 Weights are often positive, but can be negative in two cases:
 1. [[Leverage]]

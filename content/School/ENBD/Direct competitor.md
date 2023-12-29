@@ -1,0 +1,1 @@
+A business that offers similar or identical products or services.

@@ -16,9 +16,9 @@ There are three factors which can define an opportunity:
 2. Solving a problem
 3. Finding gaps in the marketplace
 ### Observing trends
-Several trends create opportunities for entrepreneurs. The most important trends in opportunities can be found by doing a [[PASTEL-analysis]]. 
+Several trends create opportunities for entrepreneurs. The most important trends in opportunities can be found by doing a [[PESTEL-analysis]]. 
 ### Solving a problem
-Through [[PASTEL-analysis]] or personal [[Intuïtie|intuition]] we can find problems. A solution to these problems could be an opportunity.
+Through [[PESTEL-analysis]] or personal [[Intuïtie|intuition]] we can find problems. A solution to these problems could be an opportunity.
 ### Finding gaps in the marketplace
 A gap in a marketplace is a need from a specific group of people which isn't filled yet.
 

@@ -1,0 +1,1 @@
+This type of business plan is longer than a [[Summary business plan]] and shorter than an [[Operational business plan]]. It acts as a blueprint of the company's operations and is created for companies who are at the point to attract funding. A full business plan is usually between 25 and 35 pages long.

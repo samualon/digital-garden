@@ -1,0 +1,1 @@
+Deze filosofie bouwt een raamwerk om te denken.

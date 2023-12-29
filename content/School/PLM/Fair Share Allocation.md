@@ -15,7 +15,11 @@ $\overline{DDLT}$ heeft twee mogelijke waarden:
 $STS_n = \frac{BV - \overline{DDLT}}{E(D)}$
 
 ### Berekenen STS
-$$ STS_{systeem} = \frac{(BV_1 + BV_2 + ... + BV_n) + ontvangen - (OP_1 + OP_2 + ... + OP_n)}{E(D_1) + E(D_2) + ... + E(D_n)} $$
+$$ 
+STS_{systeem} = \frac{(BV_1 + BV_2 + ... + BV_n) + ontvangen - (OP_1 + OP_2 + ... + OP_n)}{E(D_1) + E(D_2) + ... + E(D_n)} 
+$$
 
 ### Berekening toewijzing
-$$ Allocatie = (STS_{systeem} - STS_n) * E(D_n) $$
+$$ 
+Allocatie = (STS_{systeem} - STS_n) * E(D_n) 
+$$

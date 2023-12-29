@@ -17,7 +17,7 @@ The starting point for an opportunity originate either come from a [[Market pull
 
 Your [[Business model]] is the whole of your business in a nutshell. It talks about the :
 - value-creation = creating a valuable product or service
-- value-delivery = delivering this value to the customer
+- [[Value-delivery]] = delivering this value to the customer
 - value-capturing = make money from the product or service
 
 ### Pitfalls
@@ -37,6 +37,11 @@ Your [[Business model]] is the whole of your business in a nutshell. It talks ab
 2. [[Lean start-up method]]
 3. [[Methods to test hypotheses]]
 4. [[Business model innovation]]
+5. [[Organizing a startup]]
+6. [[Sources of funding]]
+7. [[Entrepreneurship growth strategies]]
 
 ## Cases
 - [[Boo.com]] 
+- [[Native deodorants]] 
+- [[Candice Cake]]

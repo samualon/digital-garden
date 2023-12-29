@@ -1,4 +1,12 @@
 ## Definitie
+Filosofie is nadenken over alledaagse zaken waar we al een impliciet antwoord op hebben. Adhv filosofie, proberen we een kritisch expliciet antwoord te geven.
+
+Filosofie geeft geen eenduidige antwoorden, het is pluralistisch.
+
+Er zijn twee soorten filosofie te onderscheiden op vlak van de uitoefening:
+- [[Theoretische filosofie]]
+- [[Praktische filosofie]]
+
 Moeilijk om te definiëren, maar proberen beantwoorden aan de hand van drie aspecten:
 
 ### Attitude

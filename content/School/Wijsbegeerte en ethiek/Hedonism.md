@@ -1,0 +1,1 @@
+Hedonist prioritize a lifestyle where pleasure are the focus of life. They find pleasure in the activities that they do.

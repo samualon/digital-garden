@@ -1,4 +1,4 @@
-Porter's five forces model assesses the attractiveness of an industry or sub-industry against each other.
+[[Michael Porter]]'s five forces model assesses the attractiveness of an industry or sub-industry against each other.
 
 It consists of five forces which could make the industry more or less attractive:
 1. Competition in the industry

@@ -1,5 +1,7 @@
 The Sharpe ratio is the most wide spread reward-to-risk ratio. It is calculated as followed:
-$$SR = \frac{E(R) - R_f}{\sigma} = \frac{E(R^e)}{\sigma}$$
+$$
+SR = \frac{E(R) - R_f}{\sigma} = \frac{E(R^e)}{\sigma}
+$$
 with:
 - $R^e = R - R_f$
 - $E(R^e) = risk \: premium$

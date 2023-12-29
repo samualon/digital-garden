@@ -1,0 +1,1 @@
+Doxa is de verzameling van publieke opinies die werden bediscussiëerd.

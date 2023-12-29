@@ -2,3 +2,5 @@
 2. [[Investment concepts]]
 3. [[Capital allocation in risky assets]]
 4. [[Optimal risky portfolio]]
+
+i[[Guest lecture Belfius asset management]]

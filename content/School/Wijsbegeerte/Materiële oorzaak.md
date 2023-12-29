@@ -1,0 +1,1 @@
+Dit is het bestandsdeel waaruit iets bestaat, bvb. het brons van een standbeeld.
