@@ -22,7 +22,7 @@ Er zijn echter twee nuances bij de kritiek van filosofen:
 In de filosofie zijn drie methoden erg populair:
 1. [[Intuïtie]]
 2. [[Conceptuele analyse]]
-3. [[Gedachte-experimenten]]
+3. [[Gedachte-experiment]]
 4. ([[Experimentele filosofie]])
 
 ### Domein 

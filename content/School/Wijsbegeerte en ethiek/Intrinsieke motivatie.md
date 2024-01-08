@@ -1,0 +1,1 @@
+Een motivatie gegrond door een morele overtuiging. Men wil iets doen omwille van het gedrag zelf, niet omwille van een [[Extrinsieke motivatie]] zoals geld.

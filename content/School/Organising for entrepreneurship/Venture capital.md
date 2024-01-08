@@ -10,7 +10,7 @@ Venture capital firms demand two things from firms:
 
 They will eventually require an exit (after 5-7 years)
 
-Expect 5-10X growth in value of succesful invested company or 40% - 60%. They will typically provide one million dollars.
+Expect 5-10X growth in value of successful invested company or 40% - 60%. They will typically provide one million dollars.
 ## Equity
 ... (zie ppt)
 ## Board of directors

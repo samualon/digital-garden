@@ -14,4 +14,4 @@ Men buigt zich over verschillende aspecten rond kennis:
 - Wat betekent het om overtuigd te zijn van iets?
 - ...
 
-Het [[Gedachte-experimenten]] van [[René Descartes]], [[Brain-in-a-vat]], is een typisch epistemologisch experiment.
+Het [[Gedachte-experiment]] van [[René Descartes]], [[Brain-in-a-vat]], is een typisch epistemologisch experiment.

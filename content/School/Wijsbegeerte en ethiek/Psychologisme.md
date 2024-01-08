@@ -1,0 +1,1 @@
+Alles wetenschappelijk verklaren aan de hand van het denken. Bvb. logica is iets van het brein.

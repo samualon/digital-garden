@@ -1,0 +1,1 @@
+Het uitdrukken van iets in een geldwaarde.
