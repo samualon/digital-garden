@@ -11,6 +11,7 @@ title: Index
 - [[(AAA) - Course overview Foundations of entrepreneurship|Foundations of entrepreneurship]]
 - [[(AAA) - Course overview ENDB|Entrepreneurship and New Business Development]]
 - [[(AAA) - Course overview wijsbegeerte en ethiek|Wijsbegeerte en ethiek]]
+- [[Corporate Governance|Governance]]
 
 ## Literature
 - [[Psychology of persuasion]]
