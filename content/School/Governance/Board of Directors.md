@@ -6,7 +6,14 @@ Directors should have an [[Independence of mind]].
 
 This [[Board of Directors]] is appointed in a [[General meeting]] of [[Shareholders]]. There are several important rules to follow when [[Composition of a board of directors|Composing a board of directors]].
 ## Operations
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+The [[Board of Directors]] has several important operations:
+- [[Board of Directors meeting]]
+- [[Agenda of the Board of Directors]]
+- [[Board of directors decision-making]]
+- [[Board of Directors culture]]
+- [[Information flow management]]
+- [[Remuneration]]
+- [[Evaluation of the Board of Directors]]
 ## Duties
 Three major duties of the board:
 1. Strategy

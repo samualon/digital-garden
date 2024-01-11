@@ -7,6 +7,7 @@
 6. [[Independent director]]
 7. [[Composition of a board of directors]]
 8. [[Board of Directors#Operations|Operations of the BoD]]
+9. [[Board committees]]
 ## Definition
 [[Belgian Corporate Governance Code 2020]] defines [[Corporate Governance]] as 
 > "... a set of rules which determines how companies are managed and controlled. A good [[Corporate Governance]] model achieves its goal by balancing 1. leadership, entrepreneurship and performance and 2. conformity to the aforementioned rules.
