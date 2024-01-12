@@ -8,6 +8,10 @@
 7. [[Composition of a board of directors]]
 8. [[Board of Directors#Operations|Operations of the BoD]]
 9. [[Board committees]]
+10. [[Corporate Governance#Reporting|Reporting]]
+11. [[Governance of family business]]
+12. [[Corporate Governance#Developments|Developments]]
+13. [[Governance digitalization]]
 ## Definition
 [[Belgian Corporate Governance Code 2020]] defines [[Corporate Governance]] as 
 > "... a set of rules which determines how companies are managed and controlled. A good [[Corporate Governance]] model achieves its goal by balancing 1. leadership, entrepreneurship and performance and 2. conformity to the aforementioned rules.
@@ -38,6 +42,26 @@ There are two major board structures:
 - [[Dualistic board]] or [[Dualistic board|Two-tier board]]
 
 It's important to note that it's **not one size fits all**.
+### Reporting
+A publicly listed company has to rapport on following things in their annual rapport:
+- [[Corporate Governance reporting]]
+- [[Remuneration reporting]]
+### Auditing
+There are two types of audits that a listed company could perform:
+- [[Internal audit]]
+- [[External audit]]
+
+![[Internal and external audit.png]]
+Internal audit focuses on effectiveness of company performance and is important to the company itself.
+
+External audit focuses on the organizations financial statements and is important to third parties that need correct financial information.
+## Developments
+In recent years multiple developments arose:
+- [[4th industrial revolution]]
+- [[Corporate sustainability]]
+- [[Corporate purpose]]
+- [[Governance digitalization]]
 ## Cases
 - [[Theranos]]
 - [[Technoboost]]
+- [[OpenAI]]

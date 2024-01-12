@@ -6,3 +6,8 @@ In order to run effective meetings, there should be a focus on the following:
 - Relevant and focused agenda
 - Ground rules for debating
 - Directors have expression, listening and social skills
+- Not scared of the boss ([[The dark triad.png|The dark triad]])
+## Emotional intelligence
+![[Emotional intelligence table.png]]
+
+During meetings, members should be each of these four traits.
