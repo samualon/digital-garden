@@ -16,6 +16,19 @@ Three major duties of the board:
 2. Monitoring
 3. Leadership
 ### Strategy
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Medium and long run strategy
+- Approving management's plans
+- Developing company culture
 ### Monitoring
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Approve internal control framework
+- Approve risk management framework
+- Ensure timely and integer financial statements
+- Ensure adequate description of company performance in the annual report
+- Ensure compliance with law
+- Approve code of conduct
+### Leadership
+- **Approve and dismiss [[Chief executive officer|CEO]]**
+- **Approve and dismiss executive management**
+- Determine remuneration
+- Review [[Management committee]] performance
+- Propose appointment of board members to the [[Annual General Meeting]]

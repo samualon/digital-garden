@@ -1,0 +1,1 @@
+The efficiency with which economical activities are geographically organized.

@@ -14,7 +14,7 @@
 > #### Prices are uncorrelated
 > Start from the fact that $\Delta p_t = \epsilon_t$ and thus $cov(\Delta p_t, \Delta p_s) = cov(\epsilon_p, \epsilon_s)$ 
 > #### Price impact
-> $$PI_t+s = \mathbb{E}(p_{t+s}|\mathbb{F}_{t-1}, d_t) - \mathbb{E}(\tilde{V}|\mathbb{F}_{t-1})$$
+> $$PI_{t+s} = \mathbb{E}(p_{t+s}|\mathbb{F}_{t-1}, d_t) - \mathbb{E}(\tilde{V}|\mathbb{F}_{t-1})$$
 > In case of immediate price impact, just drop the $s$ in the equation above.
 ## Chapter 03 - Order costs
 - [ ] Order costs and immediate price impact

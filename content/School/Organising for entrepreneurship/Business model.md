@@ -3,7 +3,7 @@ Your Business model is the whole of your business in a nutshell. It talks about 
 - value-delivery = delivering this value to the customer
 - value-capturing = make money from the product or service
 
-There are methods to [[Development of a business model|develop an effective business model]].
+There are methods to [[Product-service operations plan|develop an effective business model]].
 
 ## Value-creating versus value-capturing
 The value that is captured is the difference between the customer price of the product or service - the cost to produce.

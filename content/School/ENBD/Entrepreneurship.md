@@ -24,7 +24,7 @@ There are two types of environment in entrepreneurship:
 - [[Nascent entrepreneurship]]
 ## Characteristics of a successful entrepreneur
 ![[Characteristics of an entrepreneur#Core characteristics]]
-
+![[Characteristics of an entrepreneur#Secondary characteristics]]
 ## Common myths
 ### Entrepreneurs are gamblers
 Entrepreneurs are moderate risk takers, but they set challenging goals. If you are a gambler as an entrepreneur, you won't think a lot about the decisions that you make. 

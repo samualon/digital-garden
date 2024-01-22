@@ -31,7 +31,7 @@ Generally, a company's structure is composed of of three major stakeholders who 
 - [[Chief executive officer]], which is positioned in between the BoD and the management committee.
 
 ![[General company structure.png]]
-
+### Unitary and dualistic boards
 There are two major board structures:
 - [[Unitary board]] or [[Unitary board|One-tier board]]
 - [[Dualistic board]] or [[Dualistic board|Two-tier board]]

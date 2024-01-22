@@ -1,0 +1,1 @@
+Someone who decided to become an entrepreneur and has set the first step towards it is a nascent entrepreneur.

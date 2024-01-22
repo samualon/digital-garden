@@ -1,3 +1,10 @@
+There are three major categories of start-up businesses:
+- [[Salary-Substitute firm]]
+- [[Lifestyle firm]]
+- [[Entrepreneurial firm]]
+
+Only the [[Entrepreneurial firm]] takes advantage or creates an opportunity.
+## Definition
 Opportunities can be defined using ideas.
 
 An idea is a thought / impression / notion. An opportunity is an idea which are anchored to a service or product and create value for buyers / users.
