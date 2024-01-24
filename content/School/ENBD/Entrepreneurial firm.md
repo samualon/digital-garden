@@ -1,0 +1,1 @@
+A firm that brings new products or services to a market by creating or making use of an opportunity, regardless of the resources that they have.

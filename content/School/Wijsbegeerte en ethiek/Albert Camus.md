@@ -5,9 +5,9 @@ He wrote several highly commended books, such as [[L'étranger]].
 ### Absurdity
 He believed that life is meaningless and all the apparent meaning that we have of the world are our own constructs. 
 
-> "I don’t know whether this world has a meaning that transcends it. But I know that I cannot know that meaning and that it is impossible for me just now to know it. ”
+> *"I don’t know whether this world has a meaning that transcends it. But I know that I cannot know that meaning and that it is impossible for me just now to know it. ”*
 
-> "What can a meaning outside my condition mean? I can understand only in human terms."
+> *"What can a meaning outside my condition mean? I can understand only in human terms."*
 > - *Albert camus, [[The Myth of Sisyphus]]*
 
 Camus calls the world absurd. Humans are rational and want to create order, but they are faced with a silent universe which is irrational and meaningless.

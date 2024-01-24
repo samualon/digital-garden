@@ -1,0 +1,1 @@
+A firm that is created that the owner can pursue a certain lifestyle while being able to make a living off of it.

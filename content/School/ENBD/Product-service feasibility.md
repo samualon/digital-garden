@@ -1,4 +1,4 @@
-This part of a [[Feasibility analysis]] assesses the desirability of the product or service and consists of two parts:
+This part of a [[Feasibility analysis]] assesses the desirability and demand of the product or service and consists of two parts:
 1. Product/service desirability
 2. Product/service demand
 

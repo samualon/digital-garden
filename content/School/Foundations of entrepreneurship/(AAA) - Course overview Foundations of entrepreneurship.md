@@ -1,17 +1,35 @@
-## Course overview
-1. Course introduction
+# Course overview
+## The entrepreneur as individual
+1. [[#Course introduction|Introduction]]
 2. [[Characteristics of an entrepreneur]]
-## Course introduction
-### Positives and negatives of [[Entrepreneurship]]
-| Positive             | Negative     |
-| -------------------- | ------------ |
-| Create jobs          | Destroy jobs |
-| Introduce innovation |              |
-## Required readings
-1. Shane et al 2000 - [[The promise of entrepreneurship as a field of research]]
-2. Zhao, H. & Seibert, S.E. (2006). “[[The Big Five Personality Dimensions and Entrepreneurial Status by Zhao et al.]]", Journal of Applied Psychology, 91(2): 259-271. 
-3. Lazear, E.P. (2005). [[Entrepreneurship by Lazear|Entrepreneurship]]. Journal of Labor Economics, 23(4): 649-680.
-4. Lorem ipsum
-5. Lorem ipsum
-6. Lorem ipsum
-7. EGGERS, J. P., & SONG, L. (2015). [[Dealing with failure - Serial entrepreneurs and the cost of changing industries between ventures by Eggers et al.|Dealing with failure: Serial entrepreneurs and the cost of changing industries between ventures]], The Academy of Management Journal, 58(6), 1785–1803. http://www.jstor.org/stable/24758275 **and** Javier Gimeno, Timothy B. Folta, Arnold C. Cooper and Carolyn Y. Woo (1997). [[Survival of the Fittest? Entrepreneurial Human Capital and the Persistence of Underperforming Firms]], Administrative Science Quarterly , Dec., 1997, Vol. 42, No. 4 (Dec., 1997), pp. 750-783 https://www.jstor.org/stable/2393656
+3. [[Incentives of the entrepreneur]]
+## The opportunity
+4. [[Identifying entrepreneurial opportunities]]
+5. [[Effectuation and multiple opportunities]]
+6. [[Contextual factors of entrepreneurship and spawning]]
+## The performance
+7. [[Entrepreneurial failure]]
+8. [[Social factors, networks and clusters]]
+9. [[Entrepreneurial thinking]]
+10. [[Financial resources]]
+11. [[Cognitive biases]]
+12. [[10 questions every entrepreneur must answer by Bhide|Wrap-up - 10 questions every entrepreneur must answer]]
+# Course introduction
+1. [[Analyzing a research paper]]
+2. Introduction to entrepreneurship
+3. [[The promise of entrepreneurship as a field of research]]
+## Nature or nurture
+Research has shown that levels of heritability influences improves entrepreneurship. 
+
+This can't be the only factor since we see differences in levels of entrepreneurship over time. Contextual factors also must have an influence. F.e.
+- Previous company
+- Co-workers
+- Peers
+- Family
+## Impact of entrepreneurship
+| Positive | Negative |
+| ---- | ---- |
+| Job creation | Job destruction |
+| Innovation (creative destruction) | Resource waste |
+| Intensify competition |  |
+Data shows a strong correlation between entrepreneurial activity and growth in GDP. Although this is only true in situations with a high GDP output.

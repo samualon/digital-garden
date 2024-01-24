@@ -1,0 +1,1 @@
+A [[Strategic alliance]] between two firms with a focus on using their excess distribution capacity to sell more products.

@@ -6,15 +6,15 @@
 Drie belangrijke [[boundary conditions]]:
 1. [[Cognitive distance]]
 2. Creatie van [[Milieu]]
-3. [[anchors|Anchor organisations]]
+3. [[Anchor firms|Anchor organisations]]
 
 ## Anchors and sustainability of regional growth
 Twee risico's:
 1. Als de anchor de regio verlaat, wordt de levensvatbaarheid van SMEs bedreigd.
-2. De [[anchors]] mogen geen [[Gorilla]] van 800 pond worden.
-3. De [[anchors]] mogen geen gate keeper zijn, maar een facilitator
+2. De [[Anchor firms]] mogen geen [[Gorilla]] van 800 pond worden.
+3. De [[Anchor firms]] mogen geen gate keeper zijn, maar een facilitator
 
-## [[Technological gate keepers]] as [[anchors]] in Chile
+## [[Technological gate keepers]] as [[Anchor firms]] in Chile
  Findings
 1. Sharing knowledge between workers of a [[Technological gate keepers|technological gate keeper]] is a daily occurence.
 2. Not all knowledge is shared.
@@ -39,11 +39,11 @@ Multiple anchors: Minatec, STM, Schneider, VC firms. | STM declines, potential n
 ** Van 1 dominante anchor naar meerdere anchors ** | ** Verder ondersteunen van de ondergaande anchor maar deze zakte in elkaar **
 
 Conlusions:
-1. Policy should encourage **[[anchors|anchor]] diversity**
-2. Policy shouldn't reinforce **existing [[anchors]]**
+1. Policy should encourage **[[Anchor firms|anchor]] diversity**
+2. Policy shouldn't reinforce **existing [[Anchor firms]]**
 
 ## Praktijk
-[[The case of Bremen-Bremerhaven]] is een voorbeeld van hoe [[anchors|Anchor organisations]] het verschil kunnen maken.
+[[The case of Bremen-Bremerhaven]] is een voorbeeld van hoe [[Anchor firms|Anchor organisations]] het verschil kunnen maken.
 
 
 

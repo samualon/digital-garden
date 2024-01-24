@@ -51,6 +51,6 @@ In een geval waar iemand miserabel zou moeten leven, maar de wereld wel gelukkig
 Het utilitarisme houdt geen rekening met speciale relaties, zoals bvb. je kinderen, je ouders, je vrienden. Daardoor zou het voor het utilitarisme juist lijken om eerder een arm kind in Afrika te redden, dan je eigen kind.
 ### The trolley problem
 De [[Trolley problem]] is een [[Gedachte-experiment]] die veel varianten kent. Een variant is de volgende:
->Je staat met dikke man op brug, kan niet roepen naar groep van 5. Duw je dikke man naar beneden als offer om de groep te redden?
+>*Je staat met dikke man op brug, kan niet roepen naar groep van 5. Duw je dikke man naar beneden als offer om de groep te redden?*
 
 Meeste mensen zouden niet duwen, maar volgens het utilitarisme zou je dit wel moeten doen.

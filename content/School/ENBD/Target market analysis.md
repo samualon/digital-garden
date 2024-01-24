@@ -1,3 +1,7 @@
+---
+aliases:
+  - Target market
+---
 ## Definition
 A target market analysis is similar to an [[Industry analysis]] with the difference that here we analyse a specific segment of the industry. It also differs from a [[Marketing analysis]] as it doesn't focus on price, promotion or place (distribution).
 ## Motivation
@@ -7,7 +11,7 @@ A target market ananlysis consists of the following:
 1. [[Industry segmentation]]
 2. Target market selection
 3. Target market size
-4. Find 2 - 3 target market trends
+4. Find 2 - 3 target market trends and 2 - 3 industry trends that could impact the target market.
 5. [[Competitor analysis]]
 	1. [[Direct competitor]]
 	2. [[Indirect competitor]]

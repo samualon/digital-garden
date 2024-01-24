@@ -1,6 +1,6 @@
 Karl Marx was a thinker mostly known for his book [[Communist Manifesto]].
 
-> 'Religie is de opium van het volk'
+> *'Religie is de opium van het volk'*
 > *Karl Marx*
 
 In dit boek kwamen drie thema's naar voor:

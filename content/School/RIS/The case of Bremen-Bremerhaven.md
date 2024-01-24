@@ -21,7 +21,7 @@ White collar | Blue collar
 R&D | Training of the workforce (synergies with IWES education)
 
 ## Connection between Bremen-Bremerhaven
-Om afstand te overbruggen --> opzetting centrale [[anchors|Anchor organisations]] (vanuit [[Policy]] beslist). Deze zorgde voor verbinding tussen de twee [[Clusters]] adhv evenementen, seminaries, conferenties, etc. 
+Om afstand te overbruggen --> opzetting centrale [[Anchor firms|Anchor organisations]] (vanuit [[Policy]] beslist). Deze zorgde voor verbinding tussen de twee [[Clusters]] adhv evenementen, seminaries, conferenties, etc. 
 
 Twee belangrijke aspecten die hierbij worden gefostered:
 1. [[Regional buzz]]

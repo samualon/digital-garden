@@ -23,3 +23,8 @@ After growing in Russia, Marina decided to enter the US market, but this brought
 #### Disadvantages
 There is a certain cost to transfer knowledge to the distributor and control/follow-up the distributor's actions.
 (Cont'd see ppt)
+# Preparation
+## Part 1
+![[Preperation_case_Candice_Cake_Samuel_Coryn.pdf]]
+## Part 2
+![[Preperation_case_Candice_Cake_2_Samuel_Coryn.pdf]]

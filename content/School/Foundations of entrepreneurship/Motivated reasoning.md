@@ -1,0 +1,1 @@
+The tendency to accept desirable information, but scrutinize or discard undesirable information.

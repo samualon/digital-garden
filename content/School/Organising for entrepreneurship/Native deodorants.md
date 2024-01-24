@@ -12,3 +12,5 @@ The business is successful. There are several signals for this:
 As opposed to the traditional bricks-and-mortar business model of competitors, the [[D2C]] business model of Native was disruptive and resulted in:
 - constant feedback from users through the site to drive R&D. This relates strongly to the [[Lean start-up method]].
 - higher profit margins, since no powerful retailers as distribution channels
+# Preparation
+![[Preperation_case_Native_Deodorants_Samuel_Coryn.pdf]]

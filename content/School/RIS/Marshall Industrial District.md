@@ -25,7 +25,7 @@ Groei worth versterkt door:
 | -- | -- |
 | Te sterke specialisatie | Inward/outward labour flows |
 | Local industrial core | Venture capital and entrepreneurship |
-| Dense institutional network | Knowledge [[gate keepers]] and [[anchors]] |
+| Dense institutional network | Knowledge [[gate keepers]] and [[Anchor firms]] |
 | **=> ==Lock-in==** | |
 
 Risico op [[Path-dependancy and lock-in]]
