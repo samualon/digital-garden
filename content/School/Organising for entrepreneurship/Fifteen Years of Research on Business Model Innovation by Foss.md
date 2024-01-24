@@ -16,7 +16,7 @@ The research found that the literature around business models and [[Business mod
 
 The research found two major problems with BM and BMI literature:
 - Ambiguity
-- Four main streams of BMI research
+- Four separate streams of BMI research
 ## Ambiguity
 Over the years, many different definitions of business model innovation have been adopted (see Table 3  in attachment below). This shows a clear ambiguity around the concept.
 ## Four streams of BMI research
@@ -24,10 +24,10 @@ The research found four seperate research streams of BMI that don't support or b
 
 | Focus | Method |
 | ---- | ---- |
-| Conceptualization and classification of BMI | Conceptual, case studies, surveys |
-| BMI as a process (importance of leadership and learning) | Conceptual, case studies, content analysis, experimental |
-| BMI as an outcome (describing BMI's) | Case studies |
-| BMI and the organizational | Surveys |
+| *Conceptualization and classification of BMI* | Conceptual, case studies, surveys |
+| *BMI as a process (importance of leadership and learning)* | Conceptual, case studies, content analysis, experimental |
+| *BMI as an outcome (describing BMI's)* | Case studies |
+| *BMI and the organizational* | Surveys |
 ## Conclusion
 To advance BMI literature, a conceptualization of BMI that uses innovation and complex systems literature should be created.
 
@@ -42,8 +42,14 @@ Three streams of business model research:
 2. BM as antecedent for differences in enterprise performance
 3. BM as a potential unit of innovation
 ## Business model innovation
+### Definition
+> *"... designed, novel, and nontrivial changes to the key elements of a firm’s BM and/or the architecture linking these elements."*
+### Business model innovation research
 Four streams of [[Business model innovation]] research:
-1. 
+1. Conceptualizing BMI
+2. BMI as an organizational change process
+3. BMI as an outcome
+4. Consequences of BMI
 # Related
 - [[Business model innovation]]
 # Attachments

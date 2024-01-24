@@ -33,3 +33,5 @@ They should've:
 3. thought more carefully about expertise.
 
 These three factors would've increased the chance of success. These relate strongly to the [[Lean start-up method]].
+# Preparation
+![[Case Study Boo - Samuel Coryn.pdf]]

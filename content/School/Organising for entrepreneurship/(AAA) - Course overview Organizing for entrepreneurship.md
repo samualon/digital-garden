@@ -12,13 +12,11 @@ Emails schould be sent to Maria Fernanada Rios-Marchant: mariafernanda.riosmarch
 1. [[#Introduction]]
 2. [[Lean start-up method]]
 3. [[Business model innovation]]
-4. [[Assembling an entrepreneurial founding team|Assembling the founding team]]
+4. [[Entrepreneurial teams|Assembling the founding team]]
 5. [[Organizing a startup]]
 6. [[Sources of funding]]
 7. [[Growth trajectories]]
 8. [[Exit decisions]]
-
-11. [[Entrepreneurship growth strategies]]
 # Introduction
 ## Course aim
 - Challenges in creating new ventures
@@ -28,7 +26,7 @@ Emails schould be sent to Maria Fernanada Rios-Marchant: mariafernanda.riosmarch
 - Be able to adapt business models to your environment
 ## Starting point of ventures
 ![[Starring point of entrepreneurial ventures.png]]
-The starting point for an opportunity originate either come from a [[Market pull]] or a [[Technological push]] or a combination of both. These two sorts of opportunities require different business models and different amounts of financial resources.
+The starting point for an opportunity either come from a [[Market pull]] or a [[Technological push]] or a combination of both. These two sorts of opportunities require different business models and different amounts of financial resources.
 
 ![[Different opportunities and different profiles.png]]
 ## Business model
@@ -43,5 +41,7 @@ Your [[Business model]] is the whole of your business in a nutshell. It talks ab
 4. Don't think about the changing environment (sometimes a [[Business model]] change is needed)
 # Cases
 - [[Boo.com]] 
-- [[Native deodorants]] 
+- [[Simplex Solutions]]
+- [[Native Deodorants]] 
 - [[Candice Cake]]
+- [[Internet Securities]]

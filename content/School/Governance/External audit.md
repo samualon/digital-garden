@@ -1,1 +1,0 @@
-The most important part of [[External audit]] is the communication to the company. Communication should be limited to the relevant people (directors and the [[Audit committee]]).

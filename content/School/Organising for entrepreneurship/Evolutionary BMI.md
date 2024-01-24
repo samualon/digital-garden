@@ -1,0 +1,1 @@
+[[Business model innovation]] that occurs naturally, as a fine-tuning process.

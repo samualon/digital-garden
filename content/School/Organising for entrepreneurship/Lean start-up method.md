@@ -1,5 +1,6 @@
 # Literature
 - [[Why the lean start-up changes everything by Blank]]
+- [[Boo.com]]
 # Core principles
 Presence/absence of [[Absorptive capacity]] or [[Absorptive capacity|ACAP]] is crucial for being successful as a [[Start-up]].
 

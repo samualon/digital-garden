@@ -1,0 +1,1 @@
+The extent to which a product is recognized and bought by customers in a particular market.

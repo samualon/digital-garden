@@ -52,5 +52,14 @@ By creating three layers to our [[Business model canvas]], we can test it:
 3. **Test layer**: set of test for each of the assumptions from the hypothesis layer. Allows us to verify these assumptions.
 # Research in business model innovation
 See [[Fifteen Years of Research on Business Model Innovation by Foss]].
+# Types of BMI
+Four types of BMI along two dimensions:
+
+![[Business model innovation types.png]]
+
+- [[Evolutionary BMI]]
+- [[Adaptive BMI]]
+- [[Focused BMI]]
+- [[Complex BMI]]
 
 [^1]: BM being Business Model and BMI being [[Business model innovation]]

@@ -12,6 +12,7 @@ The business model canvas is a template created by [[Alexander Osterwalder]]. It
 | *Channels* | Outlines the customer touch points through which an organization interacts with each of its customer segments to communicate and deliver a value proposition |
 | *Customer segments* | Who are your target customers? The different groups of people or organizations your organization aims to help. Which customer segments are relevant for you? |
 | *Revenue streams* | Represents the type of revenues an organization generates from each customer segment for a specific value proposition |
+
 For each of these components we can [[Business model canvas questions|ask questions to assess them]].
 # Front- and back-stage
 On the right-hand side you can find all the front-stage factors (the desirability). On the left-hand side you can find the back-stage factors (the feasibility).
@@ -29,6 +30,6 @@ Some real world examples that successfully applied the [[Business model canvas]]
 - Apple
 
 They showed three important lessons:
-1. Focus on the product through the business model. No a focus on product innovation alone.
+1. Focus on the product through the business model. Not a focus on product innovation alone.
 2. Invent a new business model, don't just copy competitors.
 3. No certainty from before if it would work, had to **take risk and experiment**.

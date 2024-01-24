@@ -1,7 +1,7 @@
 **Title**: Why the lean start-up changes everything. A Harvard Business Review by Blank
 **Author**: [[Steve Blank]]
 **Year**: 2013
-**Research question**:
+**Research question**: What is the [[Lean start-up method]] and what is its impact on the broader economical environment.
 # Content
 ## Introduction
 Traditionally, startups went through the following process:
@@ -10,6 +10,7 @@ Traditionally, startups went through the following process:
 3. Assemble team
 4. Introduce product
 5. Maximize sales
+
 Until they eventually suffer a fatal setback. 75% of [[Start-up]]s fail.
 
 A new process that decreases risk of failure emerged, the [[Lean start-up method]]. It differs from tradition
@@ -33,7 +34,8 @@ A temporary organization designed to search for a scalable business model.
 
 Three key principles:
 1. Summarize founder hypotheses in a [[Business model canvas]].
-2. *Get out of the building* or [[Customer development]] 3. Practice [[Agile development]] 
+2. *Get out of the building* or [[Customer development]] 
+3. Practice [[Agile development]] 
 # Related 
 - [[Lean start-up method]] 
 # Attachments 
