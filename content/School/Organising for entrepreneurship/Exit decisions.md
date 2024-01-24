@@ -1,6 +1,7 @@
 # Literature
 - [[Growing Concerns by Hoffman et al.]]
 - [[Internet Securities]]
+- [[Questions exit decisions]]
 # Venture capital cycle
 ![[Venture capital#Functioning]]
 

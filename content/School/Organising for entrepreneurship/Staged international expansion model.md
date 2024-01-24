@@ -1,6 +1,6 @@
 The staged model counts on an interaction between **market knowledge** and **market commitment**.
 
-In this model the firm focusses on exponential learning, or *learning by doing*. It accumulates foreign market knowledge as it internationalises.
+In this model the firm focusses on [[Experiential learning]], or *learning by doing*. It accumulates foreign market knowledge as it internationalises.
 # Entry modes
 The company internationalizes using different stages of [[Entry mode|entry modes]] over two lines:
 - Resource commitment
