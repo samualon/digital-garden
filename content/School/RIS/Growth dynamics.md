@@ -1,4 +1,4 @@
-[[KPDA]] wordt versterkt door de drie [[kennisflows]]:
+[[Knowledge production diffusion and adoption]] wordt versterkt door de drie [[kennisflows]]:
 1. [[Labour mobility]]
 2. [[Market for technology]]
 3. [[Foreign direct investment]]

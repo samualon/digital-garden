@@ -7,4 +7,3 @@ Financial markets allow us to:
 In this course we limit us to two categories of instruments:
 - [[Money market instrument]]
 - [[Captial market instruments]]
-

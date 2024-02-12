@@ -1,0 +1,1 @@
+A market where past trading information, public information and private information is public.

@@ -1,0 +1,1 @@
+Stocks with high [[Dividend yield]] provide higher returns.

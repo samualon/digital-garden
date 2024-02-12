@@ -23,7 +23,7 @@ When should you become a solo founder and when should you pursue co-founders?
 ## Amount of team members
 Side effects of more team members:
 - $\uparrow$  coordination costs and inefficiencies
-- $\uparrow$ coordination costs $\rightarrow$ $\uparrow$ role overlap and in-team conflicts
+- $\uparrow$ role overlap and in-team conflicts
 - $\uparrow$ nodes in internal communication, slowing down decision-making
 
 In complex and turbulent industries however, a bigger team is better because it can:

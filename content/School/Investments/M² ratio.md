@@ -1,0 +1,1 @@
+Change the return of the portfolio such that it compares to the risk of the market portfolio, by combining it with a risk-free investment (gliding it over the [[Capital allocation line|CAL]]). Then compare return against the market return.

@@ -5,7 +5,7 @@ Properties:
 - Often in smaller denominations (such that smaller investors can purchase them too)
 - Often OTC, barely on exchanges
 - Coupon interests
-- Various performance measurements, as [[Holding Period Return]] or [[Yield]].
+- Various performance measurements, as [[Holding Period Return]] or [[Yield to maturity|Yield]].
 
 Different types of bonds:
 - [[Treasury note]]

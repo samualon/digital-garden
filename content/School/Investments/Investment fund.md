@@ -1,6 +1,6 @@
 Allows retail investors to invest for a share in a pool of assets. 
 
-By pooling assets, investors realize [[Economies of scale]]. These [[Economies of scale]] allow for:
+By pooling assets, investors realize [[Economies of scale]]. These [[Economies of scale]] are achieved by:
 - Diversification
 - Divisibility
 - Lower transaction costs
@@ -9,7 +9,7 @@ By pooling assets, investors realize [[Economies of scale]]. These [[Economies o
 
 Investment funds get valued using the [[Net asset value]] or [[Net asset value|NAV]].
 
-If the composition of a fund is changed, we can calculate the [[Turnover rate]] to get an idea of how many of the assets of the fund were changed/traded.
+If the composition of a fund is changed, we can calculate the [[Turnover ratio]] to get an idea of how many of the assets of the fund were changed/traded.
 
 There are different types of funds:
 - [[Open-end fund]] or [[Open-end fund|Mutual fund]]

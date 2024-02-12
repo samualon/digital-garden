@@ -1,7 +1,7 @@
 This [[Financial markets|Financial market]] allows us to save using short-term, low-risk debt securities:
 - [[Treasury bill]] (or T-bills)
 - [[Certificate of deposit]] (or CD)
-- [[Commerical paper]] (or CP)
+- [[Commercial paper]] (or CP)
 - [[Banker's acceptance]]
 - [[Repurchase agreement]] (or Repo)
 - [[Reverse repurchase agreement]] (or Reverse repo)

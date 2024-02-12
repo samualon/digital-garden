@@ -1,0 +1,1 @@
+Less covered firms gain higher returns.

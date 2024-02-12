@@ -24,6 +24,7 @@ The probability of the type of exit chosen for [[VC]]-backed companies is as fol
 | Trade sale | 20% | 8.5% |
 | Buy back |  | 3.5% |
 | Bankruptcy | 24% | 8% |
+
 The chances of exiting through a trade sale or thus far higher than exiting through an [[Initial Public Offering|IPO]].
 ## IPO versus trade sale
 An [[Initial Public Offering|IPO]] and a [[Trade sale]] both have advantages and disadvantages.

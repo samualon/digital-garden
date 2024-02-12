@@ -1,0 +1,4 @@
+---
+aliases:
+  - Start-up studio
+---

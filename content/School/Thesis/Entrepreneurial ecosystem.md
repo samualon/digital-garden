@@ -1,0 +1,2 @@
+> *"combinations of social, political, economic, and cultural elements, **within a region** that support the development and growth of innovative startups and encourage nascent entrepreneurs and other actors to take the risks of starting, funding, and otherwise assisting high-risk ventures"*
+> - Spigel, 2017

@@ -1,0 +1,1 @@
+Small firms provide higher returns.

@@ -28,7 +28,3 @@ VC's will intensively evaluate potential investment before deciding to invest. T
 ![[Venture capital screening process.png]]
 
 Most ventures don't make it through this process. Of all the submitted investments, less than 5% are accepted and executed.
-## Board of directors
-They will do X things:
-1. Monitor
-2. Make strategic decisions

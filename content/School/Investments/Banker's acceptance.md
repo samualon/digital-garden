@@ -1,1 +1,3 @@
 A bank promise to pay a certain amount of money.
+#  Example
+When a company A wants to sell goods to a company B in another continent, A will want to be sure that it receives the money before shipping the goods. He will create a draft where the sales agreement is described and company A and B will agree on it. Company A will then give this draft to a bank, if they accept the draft, they become responsible for paying company A. They pay A and will then, at the maturity agreed upon, demand the money from company B.
