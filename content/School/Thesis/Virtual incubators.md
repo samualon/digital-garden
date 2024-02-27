@@ -1,0 +1,1 @@
+An online platform that connects entrepreneurs, investors and advisors.

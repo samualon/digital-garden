@@ -31,6 +31,7 @@ The emerging new incubation model [[Start-up studios]] could offer a way to be m
 Findings from previous research:
 1. Importance of entrepreneurship
 2. Good entrepreneurial ecosystem
+3. Incubation model
 ## Importance of entrepreneurship
 Entrepreneurship has shown to be crucial for economic development. However, this entrepreneurship should be grown from the fact that existing resources can be combined with new ideas to create innovation. When entrepreneurship is purely necessity driven, it can be negative for the ecosystem.
 
@@ -43,13 +44,7 @@ What is crucial in an [[Entrepreneurial ecosystem]], is the interaction between 
 Although [[Incubator|incubation model]] are designed to foster the creation of new ventures, their effectiveness is highly debated.
 
 There are different [[Incubator#Types of incubators|types of incubators]].
-# Methodology
-
-# Results
-
-# Conclusion
-# Limitations
-
-# Related
-
-# Attachments
+## The startup studio model
+[[Start-up studios]] can be compared with movie studios as several projects are undertaken in parallel using their successes and resources.
+## Characteristics
+Start-up studios have [[Start-up studios#Characteristics|specific characteristics]].

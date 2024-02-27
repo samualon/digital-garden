@@ -4,4 +4,9 @@ They aim to support new ventures until they become self-sustaining, thriving com
 # Evolution
 Initially, incubators mainly offer shared office-space as a business center. Now, incubator's role has shifted to monitoring, consulting and offering a network.
 # Types of incubators
-Different types of incubators exist.
+Incubators can be categorized using [[Porter's theory on competitive scope]].
+- [[Regional business incubators]]
+- [[University incubators]]
+- [[Corporate incubators]]
+- [[Virtual incubators]]
+- [[Independent commercial incubator]]

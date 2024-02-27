@@ -43,3 +43,7 @@ Write using overall structure:
 
 # Literature
 - [[Emerging Startup Studios in Portugal by Bastos]]
+- [[Entrepreneurial team formation by Lazar]]
+- [[How social networks affect entrepreneurial team formation and search by Aldrich]]
+- [[Resiliency of entrepreneurial teams by Aldrich]]
+- [[Unraveling Entrepreneurial Team Formation by Klada]]

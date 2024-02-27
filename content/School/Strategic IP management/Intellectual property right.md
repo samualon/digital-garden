@@ -1,0 +1,5 @@
+---
+aliases:
+  - Intellectual property
+  - IP
+---
