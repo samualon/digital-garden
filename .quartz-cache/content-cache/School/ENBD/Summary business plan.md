@@ -1,0 +1,1 @@
+A short business plan, usually only 10 to 15 pages, which wants to test the waters for a new idea and see if investors are interested.

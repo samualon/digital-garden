@@ -1,0 +1,1 @@
+Once we've written parts of the business plan, we have the tendency to not change these parts, even if we should change it (cuz of opportunities, new developments in trends, changes of the business model, etc.). This is why some academics believe writing a business plan is a bad thing for new businesses.

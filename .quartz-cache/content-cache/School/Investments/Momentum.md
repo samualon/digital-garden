@@ -1,0 +1,1 @@
+Positive returns tend to be followed by more positive returns.

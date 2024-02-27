@@ -1,0 +1,1 @@
+Dit is de vorm van iets, bvb. de vorm van een standbeeld.

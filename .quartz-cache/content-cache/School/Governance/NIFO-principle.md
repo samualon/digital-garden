@@ -1,0 +1,1 @@
+Nose In, Fingers Out, the [[Board of Directors]] should not do day-to-day activities, but only supervise.

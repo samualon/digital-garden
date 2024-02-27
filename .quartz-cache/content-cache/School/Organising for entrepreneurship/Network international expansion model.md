@@ -1,0 +1,1 @@
+In this model, the focus is on the role of **network partners**. The firm collects foreign market knowledge by learning from network partners ([[Inter-organizational learning]]).

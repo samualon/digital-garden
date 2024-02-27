@@ -1,0 +1,1 @@
+The tendency to maintain a behavior unless there is a compelling reason to change.

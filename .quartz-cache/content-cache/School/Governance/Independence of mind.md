@@ -1,0 +1,1 @@
+All directors should act with an independence of mind and be able to resist peer pressure. They should be critical and ask critical questions to executive management, even under pressure of the [[Chief executive officer|CEO]].

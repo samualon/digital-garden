@@ -1,0 +1,1 @@
+When intrest rate changes are expected, exchange maturities of bonds to make use of this change.

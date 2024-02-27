@@ -1,0 +1,1 @@
+Compliance is a submissive reaction to a request. A request can either be explicit or implicit. This process of submission to a request is studied by the psychology of Compliance.

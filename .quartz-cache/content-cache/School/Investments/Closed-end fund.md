@@ -1,0 +1,1 @@
+A managed fund with a fixed number of shares (as opposed to an [[Open-end fund]]) which trades intra-day on an organized exchange at market determined prices, usually this is a discount or premium on the [[Net asset value|NAV]].

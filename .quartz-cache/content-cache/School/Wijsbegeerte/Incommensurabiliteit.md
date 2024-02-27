@@ -1,0 +1,1 @@
+Wanneer twee zaken onderling onvergelijkbaar of onmeetbaar zijn.

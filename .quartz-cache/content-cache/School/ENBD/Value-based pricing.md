@@ -1,0 +1,1 @@
+Pricing the product or service by observing how much the market values the product or service. Customer focused.

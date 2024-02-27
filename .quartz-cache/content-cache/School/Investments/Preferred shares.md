@@ -1,0 +1,1 @@
+Shares that represent a share of the ownership of a company, but bring no voting power and promise a fixed dividend.

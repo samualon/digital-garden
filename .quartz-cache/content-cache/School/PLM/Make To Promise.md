@@ -1,0 +1,1 @@
+Som van de totale prognose van de perioden in de time bucket die volgt.

@@ -1,0 +1,1 @@
+Een sobere levenshouding, zoals in kloostergemeenschappen.

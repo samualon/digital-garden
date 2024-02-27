@@ -1,0 +1,4 @@
+---
+aliases:
+  - Two-tier board
+---

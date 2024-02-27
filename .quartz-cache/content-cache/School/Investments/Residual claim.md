@@ -1,0 +1,1 @@
+A claim that only receives payout after all other claims have been paid.
