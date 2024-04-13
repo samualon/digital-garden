@@ -7,3 +7,11 @@ Example private equity investing:
 - [[Business angel]]
 - Growth capital
 - Buy-outs
+# Pro and con
+| Pro                                       | Con                                                       |
+| ----------------------------------------- | --------------------------------------------------------- |
+| Professional                              | Interference can become a nuisance[^1]                    |
+| Expertise in finance                      | Consulting talks and presentations can take a lot of time |
+| Have a different perspective on comapnies | Lack of sector-specific knowledge.                        |
+| Similar incentives of founders            |                                                           |
+[^1]: 

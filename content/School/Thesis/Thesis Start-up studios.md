@@ -1,12 +1,13 @@
 # Resources
-| Resource | Link |
-| ---- | ---- |
-| Planning | [Google Drive](https://drive.google.com/drive/folders/1s_YtFpWbmE1mPPVkPYXiq4lU9FxG5_B5?usp=drive_link)<br> |
-| Writing | [Overleaf](https://www.overleaf.com/project/65ca3b1865f45d75c070831b) |
-| Project management | [Asana](https://app.asana.com/0/1205899704856555/1205899396245790) |
-| Source management<br> | [Zotero](https://www.zotero.org/groups/5277803/thesis_startup_studios/library) |
-| Email coach | Jingyuan.yang@kuleuven.be<br> |
-| Topic information | [[Topic description thesis Start-up studios.pdf\|Topic description]] |
+| Resource                  | Link                                                                                                        |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Planning                  | [Google Drive](https://drive.google.com/drive/folders/1s_YtFpWbmE1mPPVkPYXiq4lU9FxG5_B5?usp=drive_link)<br> |
+| Writing                   | [Overleaf](https://www.overleaf.com/project/65ca3b1865f45d75c070831b)                                       |
+| Project management        | [Asana](https://app.asana.com/0/1205899704856555/1205899396245790)                                          |
+| Source management<br>     | [Zotero](https://www.zotero.org/groups/5277803/thesis_startup_studios/library)                              |
+| Email coach               | Jingyuan.yang@kuleuven.be<br>                                                                               |
+| Topic information         | [[Topic description thesis Start-up studios.pdf\|Topic description]]                                        |
+| Qualitative research tool | [QualCoder](https://github.com/ccbogel/QualCoder)                                                           |
 # Planning
 1. Understanding the landscape
 2. Structuring the research
@@ -40,6 +41,14 @@ Write using overall structure:
 3. Results
 4. Discussion
 5. Conclusion
-
+# Interviews
+- [[Interview Lab Box]]
+- [[Interview Builders Studio]]
+- [[Interview OSS Ventures]]
+- [[Interview The Heart]]
 # Literature
 - [[Emerging Startup Studios in Portugal by Bastos]]
+- [[Entrepreneurial team formation by Lazar]]
+- [[How social networks affect entrepreneurial team formation and search by Aldrich]]
+- [[Resiliency of entrepreneurial teams by Aldrich]]
+- [[Unraveling Entrepreneurial Team Formation by Klada]]

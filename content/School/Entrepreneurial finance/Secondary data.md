@@ -1,0 +1,1 @@
+Data gathered from someone else, not the *researcher* himself.

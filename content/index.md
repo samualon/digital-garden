@@ -12,6 +12,10 @@ title: Index
 - [[(AAA) - Course overview ENDB|Entrepreneurship and New Business Development]]
 - [[(AAA) - Course overview wijsbegeerte en ethiek|Wijsbegeerte en ethiek]]
 - [[Corporate Governance|Governance]]
+- [[(AAA) - Course overview Strategic management|Strategic management]]
+- [[(AAA) - Course overview Strategic IP management|Strategic IP management]]
+- [[(AAA) - Course overview Entrepreneurial finance|Entrepreneurial finance]]
+- [[Thesis Start-up studios|Thesis]]
 
 ## Literature
 - [[Psychology of persuasion]]

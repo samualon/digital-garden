@@ -3,7 +3,7 @@
 This can be achieved by reducing:
 - overhead
 - employees
-- operating costs (includes the [[Net Working Capital]])
+- operating costs (includes the [[Working Capital]])
 
 Bootstrapping respects the [[Pecking order model]] as it tries to start the company using only internal funds.
 # Techniques

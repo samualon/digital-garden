@@ -1,0 +1,1 @@
+Innovation where a brand-new experience is created, unlike [[Incremental innovation]].

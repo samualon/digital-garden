@@ -1,0 +1,1 @@
+Knowledge transfer vechicles for students and professors. They are connected to universities and often emerge in technology parks to gain synergies between industry and academia.
