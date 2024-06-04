@@ -14,6 +14,7 @@ title: Index
 - [[Corporate Governance|Governance]]
 - [[(AAA) - Course overview Strategic management|Strategic management]]
 - [[(AAA) - Course overview Strategic IP management|Strategic IP management]]
+- [[(AAA) - Course overview Entrepreneurial finance|Entrepreneurial finance]]
 - [[Thesis Start-up studios|Thesis]]
 
 ## Literature

@@ -1,0 +1,1 @@
+$$ WCR = Inventories + Customer \: credit - Supplier \: credit $$

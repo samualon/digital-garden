@@ -3,7 +3,7 @@
 **Year**: 2005
 **Research question**:
 # Abstract
-Two views on creation of [[Venture capital|VC]]-backed [[Start-up]]s:
+Two views on creation of [[Venture capital|VC]]-backed [[Startup]]s:
 1. Young firms' processes and exposing of relevant networks prepare employees to become entrepreneurs.
 2. Large [[Bureaucratie|bureaucratic]] firms push individuals to become entrepreneurs when they don't fund their ideas.
 

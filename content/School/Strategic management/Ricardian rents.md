@@ -1,0 +1,1 @@
+Profits arising from superior resources.

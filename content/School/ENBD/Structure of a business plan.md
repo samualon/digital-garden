@@ -49,7 +49,7 @@ The [[Product-service development plan]] provides a timeline of the development 
 1. Development status and tasks
 2. Challenges and risks
 3. Cost remaining
-4. ([[Intellectual property right]])
+4. ([[Intellectual property rights]])
 ### Financial projections
 The [[Financial projections]], the final part of the business plan, handles the pro forma financial projections. It consists of the following:
 1. Sources and use of funds statement

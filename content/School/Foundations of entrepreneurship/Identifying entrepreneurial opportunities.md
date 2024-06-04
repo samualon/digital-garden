@@ -28,22 +28,22 @@ Kirzner believes an entrepreneur possibilities in correcting errors by different
 
 To exploit these inefficiencies, he has to be very alert to discovering them. 
 ## Comparison
-| Schumpeterian | Kirznerian |
-| ---- | ---- |
-| Innovation | Arbitrage |
+| Schumpeterian   | Kirznerian         |
+| --------------- | ------------------ |
+| Innovation      | Arbitrage          |
 | Dis-equilibrium | Making equilibrium |
-| Active creation | Passive discovery |
+| Active creation | Passive discovery  |
 | New information | No new information |
-| Dynamic | Static |
-| Rare occurence | Common occurence |
+| Dynamic         | Static             |
+| Rare occurence  | Common occurence   |
 # Why are opportunities discovered?
 Three different views on this quesion:
 
-| View | *Allocation view* | *Discovery view* | *Creative view* |
-| ---- | ---- | ---- | ---- |
-| **Name** | Neoclassical equilibrium theory | Austrian school | [[Effectuation]] |
-| **Explanation** | Opportunities are randomly distributed and everyone can recognize them. Personal preference decides if someone will be an entrepreneur and use them. | Bcs of information asymmetry, not everyone can recognize opportunities. ([[Creativity and or alertness by Kirzner]]) | Opportunities are created by linking new means and new ends. (Schumpeterian) |
-| **Type of approach** | Economic approach | Economic approach | Sociological approach |
+| View                 | *Allocation view*                                                                                                                                    | *Discovery view*                                                                                                     | *Creative view*                                                              |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Name**             | Neoclassical equilibrium theory                                                                                                                      | Austrian school                                                                                                      | [[Effectuation]]                                                             |
+| **Explanation**      | Opportunities are randomly distributed and everyone can recognize them. Personal preference decides if someone will be an entrepreneur and use them. | Bcs of information asymmetry, not everyone can recognize opportunities. ([[Creativity and or alertness by Kirzner]]) | Opportunities are created by linking new means and new ends. (Schumpeterian) |
+| **Type of approach** | Economic approach                                                                                                                                    | Economic approach                                                                                                    | Sociological approach                                                        |
 One special approach, the **Psychological approach**: opportunities are neglected, it solely depends on a persons willingness and ability to take action.
 # How are opportunities discovered
 [[Opportunity recognition as Pattern recognition]] tells us that in order to recognize opportunities one has to have following traits:

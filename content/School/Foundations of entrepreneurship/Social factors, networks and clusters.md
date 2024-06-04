@@ -37,9 +37,9 @@ Spinoffs are often located in [[Clusters]]. But why do clusters merge? Two persp
 [[Marshall Industrial District|Marshall's]] agglomeration economies gives an explanation on the basis of three arguments:
 - Common resource sharing
 - Labour pooling
-- Information [[spillovers]]
+- Information [[Spillovers]]
 
-But this is only good for small [[Start-up]]s, larger firms should look to avoid being this close to rivals.
+But this is only good for small [[Startup]]s, larger firms should look to avoid being this close to rivals.
 ## Sociological perspective
 Since it is often difficult to leverage own ties, they look to cluster such that they can make use of this network. It also helps acquiring [[Tacit knowledge]].
 

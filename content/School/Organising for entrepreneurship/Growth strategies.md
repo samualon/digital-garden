@@ -23,7 +23,7 @@ Three options:
 ### Mergers and acquisitions
 The firm grows by purchasing other firms or merging with another firm. This allows for pooling of interests and resources.
 ### Licensing
-Licensing involves granting another company the right to use [[Intellectual property right|IP]] under clearly defined conditions.
+Licensing involves granting another company the right to use [[Intellectual property rights|IP]] under clearly defined conditions.
 ### Strategic alliances and Joint-ventures
 #### Strategic alliance
 A [[Strategic alliance]] is a partnership between two firms to achieve a common goal. Two types:

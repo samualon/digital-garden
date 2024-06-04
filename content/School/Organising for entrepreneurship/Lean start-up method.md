@@ -2,7 +2,7 @@
 - [[Why the lean start-up changes everything by Blank]]
 - [[Boo.com]]
 # Core principles
-Presence/absence of [[Absorptive capacity]] or [[Absorptive capacity|ACAP]] is crucial for being successful as a [[Start-up]].
+Presence/absence of [[Absorptive capacity]] or [[Absorptive capacity|ACAP]] is crucial for being successful as a [[Startup]].
 
 The three key principles of the Lean start-up method (see [[Why the lean start-up changes everything by Blank#The lean start-up method|Article by Blank]]):
 1. Create a series of hyptoheses/assumptions
@@ -20,4 +20,4 @@ There should be a focus on creation of firm value over time. During the [[Bootst
 
 ![[Technology to solution.png]]
 ## Need for prior market knowledge
-Having prior experience for the market that you will enter in (or overall market knowledge), can have a positive influence on the implementation of learned stuff in the [[BML-cycle]]. Prior market knowledge will also benefit the [[Absorptive capacity|ACAP]] of the [[Start-up]].
+Having prior experience for the market that you will enter in (or overall market knowledge), can have a positive influence on the implementation of learned stuff in the [[BML-cycle]]. Prior market knowledge will also benefit the [[Absorptive capacity|ACAP]] of the [[Startup]].

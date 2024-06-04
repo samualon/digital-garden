@@ -1,0 +1,1 @@
+Use the scenarios from a [[Scenario analysis]] to determine which assumptions have how much impact.

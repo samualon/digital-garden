@@ -1,0 +1,1 @@
+70% on current horizon, 20% on second and last 10%.

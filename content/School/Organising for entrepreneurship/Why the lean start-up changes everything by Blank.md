@@ -11,7 +11,7 @@ Traditionally, startups went through the following process:
 4. Introduce product
 5. Maximize sales
 
-Until they eventually suffer a fatal setback. 75% of [[Start-up]]s fail.
+Until they eventually suffer a fatal setback. 75% of [[Startup]]s fail.
 
 A new process that decreases risk of failure emerged, the [[Lean start-up method]]. It differs from tradition
 

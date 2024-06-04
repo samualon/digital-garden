@@ -1,0 +1,1 @@
+Innovation where you simply improve a product or service, unlike [[Transformative innovation]].

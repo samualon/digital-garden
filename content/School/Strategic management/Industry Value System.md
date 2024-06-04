@@ -1,0 +1,1 @@
+![[Industry value system.png]]

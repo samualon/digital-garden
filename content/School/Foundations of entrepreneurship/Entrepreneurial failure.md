@@ -11,6 +11,6 @@ Traditional believe is that economic performance determines succes, but [[Entrep
 - Economic performance AND
 - Human capital of the entrepreneur
 # Learning from failure
-Since many [[Start-up]]s fail, a fear of failure exists. This often leads to [[Nascent entrepreneurship|nascent entrepreneurs]] that never start.
+Since many [[Startup]]s fail, a fear of failure exists. This often leads to [[Nascent entrepreneurship|nascent entrepreneurs]] that never start.
 
 Conform [[Serial entrepreneurs and the cost of changing industries between ventures by Eggers]], we should critically review our failure and learn from it. We shouldn't attribute the failure to external factors, but leverage our experience.

@@ -4,9 +4,9 @@
 3. Looking longer term (e.g. over a 10 or 12 year horizon), how do you think the US marijuana industry will develop? What will be the implications of this development for competition and profitability?
 # Answers
 ## Industry value system
-| Component | Duiding |
-| ---- | ---- |
-| Competitors |  |
+| Component   | Duiding |
+| ----------- | ------- |
+| Competitors |         |
 ## Attractiveness of US marijuana industry as an investment
 
 # Attachments

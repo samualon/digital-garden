@@ -1,4 +1,4 @@
-Due to information asymmetry, f.e. caused by the difficulty of estimating future operating expenses and profits, many [[Start-up]]s struggle with attracting enough funds to finance operations or future growth projects.
+Due to information asymmetry, f.e. caused by the difficulty of estimating future operating expenses and profits, many [[Startup]]s struggle with attracting enough funds to finance operations or future growth projects.
 # Addressing the funding gap
 This problem requires policy intervention through:
 - [[Loan guarantee schemes]]

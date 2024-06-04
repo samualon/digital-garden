@@ -8,7 +8,7 @@ after 2000 | - Promotion of learning/knowledge in and between regions <br> - Str
 
 Importance of [[Regional competitiveness]] strongly increased after 2000. 
 
-Also, exploitation of scarce resources was no longer important. Now strong focus on valorization of new knowledge. [[PRO]]'s are crucial in this as investors refrain from investing in new knowledge because of high costs, risks and [[spillovers|spillover]].
+Also, exploitation of scarce resources was no longer important. Now strong focus on valorization of new knowledge. [[PRO]]'s are crucial in this as investors refrain from investing in new knowledge because of high costs, risks and [[Spillovers|spillover]].
 
 ## Balancing closure and openness
 
