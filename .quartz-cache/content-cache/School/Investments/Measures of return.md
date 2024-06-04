@@ -1,5 +1,0 @@
-- [[Normal return]]
-- [[Effective annual rate]]
-- [[Annual percentage rates]]
-- [[Log return]]
-- [[Holding period return]]

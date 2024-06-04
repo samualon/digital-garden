@@ -1,1 +1,0 @@
-Dit is een vorm van het begrijpen van waarheid als de onthulling van iets (zoals waarzeggers).

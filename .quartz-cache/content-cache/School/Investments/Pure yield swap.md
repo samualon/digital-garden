@@ -1,1 +1,0 @@
-Exchange low-yield bonds for high-yield bonds, while also carrying a higher risk.

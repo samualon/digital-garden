@@ -1,1 +1,0 @@
-Geloof dat men gekozen wordt door god om gered te worden, of gedoemd te zijn.

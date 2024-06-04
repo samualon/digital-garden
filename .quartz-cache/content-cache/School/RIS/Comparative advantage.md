@@ -1,1 +1,0 @@
-Comparative advantage is how a business lowers costs to gain leverage against its competitors.

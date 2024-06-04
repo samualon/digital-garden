@@ -1,1 +1,0 @@
-A firm that gives the owner the income that an average employee would receive. An example is a baker.

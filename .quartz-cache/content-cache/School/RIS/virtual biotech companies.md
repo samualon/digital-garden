@@ -1,1 +1,0 @@
-Bouwen een grote patenten-portefeuille op --> grote financiële investering.

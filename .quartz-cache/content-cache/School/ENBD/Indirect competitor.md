@@ -1,1 +1,0 @@
-A business that offers close substitute products or services.

@@ -1,1 +1,0 @@
-Attributing successful outcomes to one's own skills and unsuccessful outcomes to bad luck.

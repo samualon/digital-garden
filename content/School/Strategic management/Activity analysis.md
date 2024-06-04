@@ -1,4 +1,4 @@
-In order to identify the drivers of competitive advantage and execute an [[Activity analysis]], the company needs to be broken down into activities (see [[CR08 Strategy and the business landscape#Activity analysis]]). 
+In order to identify the drivers of [[competitive advantage]] and execute an [[Activity analysis]], the company needs to be broken down into activities (see [[CR08 Strategy and the business landscape#Activity analysis]]). 
 
 Several steps have to be undertaken:
 1. Identify firm activities.

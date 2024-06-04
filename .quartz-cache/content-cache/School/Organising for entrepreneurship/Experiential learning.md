@@ -1,1 +1,0 @@
-Flatter learning curve than [[Congenital learning]].

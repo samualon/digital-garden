@@ -10,8 +10,12 @@ $$ FCF = NOPLAT - Net \: investments $$
 [[EBITDA]], which can be calculated using $Sales * EBITDA \: margin$, can be used to determine [[Free cash flow|FCF]]. By subtracting corporate taxes, strategic investments, $\Delta$[[Working Capital]], [[Free cash flow|FCF]] can be found.
 
 ![[FCF from EBITDA.png]]
-# Formulae
+# EV using perpetual formula
+## Determining ROIC
 $$ ROIC = \frac{NOPLAT}{Invested \: capital} = (1-Tax \: rate) \frac{(Price - cost) * Quantity}{Invested \: capital} $$
+## First method for EV
 $$ Enterprise \: value = Invested \: capital + \frac{Invested \: capital * (ROIC - WACC)}{WACC - g} $$
 (With $g=$ growth rate)
+## Second method for EV
 $$ Enterprise \: value = \frac{FCF}{WACC - g} = \frac{NOPLAT(1 - \frac{g}{ROIC})}{WACC - g} $$
+With $FCF = NOPLAT(1-\frac{g}{ROIC})$

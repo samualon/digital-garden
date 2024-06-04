@@ -4,7 +4,7 @@
 3. [[R&D partnerships and IP]]
 4. [[IP licensing]]
 5. [[IP valuation]]
-6. [[IP markets]], [[IP intermediaries]] and [[Patent sharks]]
+6. [[IP markets, intermediaries and Patent sharks]]
 7. [[Global IP strategies]]
 # Description
 This course aims to learn practices for successfully design and implement [[Intellectual property rights|IP]] strategies in entrepreneurial and technology-driven firms. It's not a law course, purely strategy.
@@ -15,7 +15,5 @@ Three parts to this course:
 1. Importance of [[Intellectual property rights|Intellectual property]]
 2. Design of defensive and offensive IP strategies
 3. Collaborative IP strategies
-# Introduction
-
 # Readings
 - [[Syllabus strategic IP management]]

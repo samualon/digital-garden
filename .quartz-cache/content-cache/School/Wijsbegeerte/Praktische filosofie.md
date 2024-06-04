@@ -1,1 +1,0 @@
-Deze filosofie bestaat uit theoriën, maar wordt gebruikt om praktische zaken op te lossen.

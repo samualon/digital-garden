@@ -1,1 +1,0 @@
-There's no external factor that forces the person to become an [[Entrepreneurship|Entrepreneur]], they decide themselves to become an [[Entrepreneurship|Entrepreneur]]. 

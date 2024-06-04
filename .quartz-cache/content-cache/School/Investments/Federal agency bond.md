@@ -1,1 +1,0 @@
-Debt issued by a federal agency or guaranteed by the state or the local government.

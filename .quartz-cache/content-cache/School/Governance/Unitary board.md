@@ -1,4 +1,0 @@
----
-aliases:
-  - One-tier board
----

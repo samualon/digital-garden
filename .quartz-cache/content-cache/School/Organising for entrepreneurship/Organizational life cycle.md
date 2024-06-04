@@ -1,1 +1,0 @@
-![[Organizational life cycle.png]]

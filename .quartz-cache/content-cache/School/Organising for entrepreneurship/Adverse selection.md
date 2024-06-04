@@ -1,1 +1,0 @@
-For a growing firm, it becomes more difficult to find the right employees, place them in the right place in the company and supervise them.

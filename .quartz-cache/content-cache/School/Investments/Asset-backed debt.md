@@ -1,1 +1,0 @@
-A security which is a proportion of a pool of debt-assets.

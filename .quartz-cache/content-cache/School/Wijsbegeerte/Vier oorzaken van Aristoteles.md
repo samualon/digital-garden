@@ -1,4 +1,0 @@
-- [[Materiële oorzaak]]
-- [[Formele oorzaak]]
-- [[Efficiënte oorzaak]]
-- [[Doeloorzaak]]

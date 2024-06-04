@@ -1,1 +1,0 @@
-Producing similar products/services at a lower cost.

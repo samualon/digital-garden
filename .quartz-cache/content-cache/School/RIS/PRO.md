@@ -1,3 +1,0 @@
----
-Aliasses: Public research organisation
----

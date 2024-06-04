@@ -1,1 +1,0 @@
-A private partnership of investments with limited regulations.

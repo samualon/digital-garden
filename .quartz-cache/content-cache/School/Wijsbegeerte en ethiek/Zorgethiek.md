@@ -1,1 +1,0 @@
-Binnen de zorgethiek probeert men [[Ethiek|ethisch]] te zijn door te denken over de menselijke relaties in een situatie.

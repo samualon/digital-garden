@@ -1,1 +1,0 @@
-The 'fluidity' of resources like people, skills, knowledge, and capital that move between different firms within an ecosystem.

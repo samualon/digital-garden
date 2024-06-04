@@ -1,1 +1,0 @@
-Higher B/M-firms provide higher returns.
