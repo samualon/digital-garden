@@ -9,5 +9,5 @@ Your activities, resources and capabilities should match the scope of your firm.
 # Activities and the competitive advantage
 Your activities should reinforce the competitive advantage of the firm.
 ![[Activities and the competitive advantage.png]]
-# Competitive advantage and resource and capabilities
+# Resources and capabilities and the competitive advantage 
 The [[Resources and capabilities]] that are being developed should reinforce the [[Competitive advantage]] of the firm.

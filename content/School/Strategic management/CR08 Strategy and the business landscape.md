@@ -45,7 +45,7 @@ To *calculate* [[Willingness to pay|WTP]], a method of four steps can be used:
 2. Pinpoint what these buyers want
 3. Find how successful the firm is at meeting these customer expectations
 4. Relate the successfulness of step 3. to the relevant activities
-# Define strategic options and make choices
+## Define strategic options and make choices
 Defining options is a creative task, but there are some guidelines:
 - Consider customers' reactions to the strategic changes.
 - Evaluate the possible impact of all activities, not only those related to the product/service's characteristics.

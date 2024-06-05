@@ -17,7 +17,7 @@ Three functions:
 Since 2018 more interesting for banks since high interest rates.
 
 Belfius acts as intermediary between investors (retail, high net worth, institutional) and trading venues. Most important tasks:
-- [[Diversification]]
+- [[Corporate diversification]]
 - Reduce transaction costs
 - Discover opportunities in assets
 - Gather data

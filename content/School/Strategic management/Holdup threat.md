@@ -11,7 +11,7 @@ By using contracts, deals with firms in the [[Industry Value System]] can be sus
 ## (Vertically) Integrating
 By integrating the parts from the [[Industry Value System]] where players are practicing or can practice holdup, the threat can be subverted. Additionally, the firm can then themselves choose how these parts should grow, be invested, divested, etc.
 ## Increasing bargaining power
-By countering the suppliers and buyers bower, the firm is able to increase its own bargaining power.
+By countering the suppliers and buyers power, the firm is able to increase its own bargaining power.
 ## Building mutual dependency
 By collaborating with strong players in the firm's [[Industry Value System]], it can build a relationship with them and link their success to the success of the firm. They then no longer have the incentive to divert the [[Value-capturing]].
 ## Developing trust

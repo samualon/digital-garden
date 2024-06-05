@@ -1,1 +1,1 @@
-A strategy that focuses on the [[Competitive advantage]] of an [[Strategic business unit|SBU]].
+A strategy that focuses on the [[Competitive advantage]] of an [[Strategic Business Unit|SBU]].

@@ -5,9 +5,9 @@
 4. [[Building a competitive advantage]]
 5. [[Sustaining a competitive advantage]]
 6. [[Testing a strategy]]
-7. [[#Summarization using cases and guest lectures]]
+7. [[#Summarization in practice]]
 8. [[Corporate strategy]]
-9. [[Diversification]]
+9. [[Corporate diversification]]
 # Description
 ![[Core of business strategy.png]]
 

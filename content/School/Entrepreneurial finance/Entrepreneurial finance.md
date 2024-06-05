@@ -20,7 +20,7 @@ This makes choosing a project to fund costly.
 ## Importance for entrepreneurs
 For entrepreneurs, funding is crucial to be able to have enough resources to complete the project. Furthermore, investors can impact the development of the project.
 ## Importance for investors
-Investors search for [[Diversification]] of their portfolios and search for high returns.
+Investors search for [[Corporate diversification]] of their portfolios and search for high returns.
 
 Additionally, they want to pass on their knowledge and expertise.
 ## Importance for society and the economy

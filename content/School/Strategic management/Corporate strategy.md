@@ -3,7 +3,7 @@
 
 A corporate strategy is the act of creating a [[Competitive advantage]] by combining all the parts, or business units together. Companies with a good corporate strategy add more to their [[Competitive advantage]] as a whole, than the sum of all individual business units.
 
-Through a strong [[Corporate strategy]], the individual [[Strategic business unit|SBU]] gain a [[Competitive advantage]] through its corporate affiliation.
+Through a strong [[Corporate strategy]], the individual [[Strategic Business Unit|SBU]] gain a [[Competitive advantage]] through its corporate affiliation.
 # Creating a corporate strategy
 To build a corporate strategy, two steps are necessary:
 1. Build a portfolio of businesses and define the model for [[Corporate advantage]].
@@ -23,7 +23,7 @@ Value can be added either horizontally (people, strategy, targets, policies, rel
 ## Design and organize
 When the company knows which businesses to incorporate, it has to think about the organization of the corporation as a whole.
 ### Resource alignement
-On the [[Resource coninuum]], all aspects should be aligned.
+On the [[The resource continuum.png|Resource continuum]], all aspects should be aligned.
 ### Building blocks
 Building blocks can be used to create a company under a *superstructure*. 
 
@@ -41,6 +41,6 @@ A trade-off between decentralization and [[Synergy]] exists. Little decentraliza
 
 ![[Decentralization and synergy.png]]
 # Measuring value-capturing from corporate advantage
-By subtracting the costs of the *center* from the positive impact on individual [[Strategic business unit|SBU]]s and synergies between them, the [[Corporate advantage]] or additional [[Value-capturing]] can be calculated.
+By subtracting the costs of the *center* from the positive impact on individual [[Strategic Business Unit|SBU]]s and synergies between them, the [[Corporate advantage]] or additional [[Value-capturing]] can be calculated.
 
 ![[Measuring value-capturing from corporate advantage.png]]
