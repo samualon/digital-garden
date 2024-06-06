@@ -8,6 +8,8 @@
 7. [[#Summarization in practice]]
 8. [[Corporate strategy]]
 9. [[Corporate diversification]]
+10. [[Governance and CSR]]
+11. [[Strategy process]]
 # Description
 ![[Core of business strategy.png]]
 

@@ -1,4 +1,4 @@
-Enterprise value consists of four components:
+Enterprise value consists of three components:
 - Sales growth
 - Margin
 - Resource utilization
