@@ -1,1 +1,0 @@
-First temp job and after six months option for permanent market. Allows for a more accessible labour market.

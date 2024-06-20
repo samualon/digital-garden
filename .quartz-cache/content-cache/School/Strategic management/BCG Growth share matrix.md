@@ -1,1 +1,0 @@
-![[BCG Growth share matrix.png]]

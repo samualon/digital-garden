@@ -1,1 +1,0 @@
-Imagining that a project failed and then try to determine what would've caused it to fail.

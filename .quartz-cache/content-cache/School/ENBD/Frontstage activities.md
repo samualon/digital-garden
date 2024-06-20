@@ -1,1 +1,0 @@
-Activities of the business that are visible to the customers.

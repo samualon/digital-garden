@@ -1,1 +1,0 @@
-An industry where firms create products that consist of one component (such as chemical compounds), unlike a [[Complex industry]].

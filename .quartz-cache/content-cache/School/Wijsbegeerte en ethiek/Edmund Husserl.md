@@ -1,1 +1,0 @@
-Edmund Gustav Albrecht Husserl was een Oostenrijks-Duitse filosoof en wordt beschouwd als de grondlegger van de [[Fenomenologie]].

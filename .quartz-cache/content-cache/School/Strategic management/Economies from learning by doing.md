@@ -1,1 +1,0 @@
-This implies an advantage to being large in an industry over a long period of time.

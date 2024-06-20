@@ -1,1 +1,0 @@
-A concentrated industry is an industry that is dominated by a few large companies. $\leftrightarrow$ [[Fragmented industry]]

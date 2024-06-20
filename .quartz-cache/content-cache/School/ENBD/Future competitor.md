@@ -1,1 +1,0 @@
-A business which isn't yet a competitor but could become a [[Direct competitor]] or [[Indirect competitor]] at any time in the future.

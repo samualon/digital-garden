@@ -1,1 +1,0 @@
-Capabilties that combine and direct [[Basic capabilities]].

@@ -1,1 +1,0 @@
-A list of patents that are most valuable to a party in a [[Cross-licensing]] deal.

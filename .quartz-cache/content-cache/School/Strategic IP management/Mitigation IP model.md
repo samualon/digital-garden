@@ -1,1 +1,0 @@
-[[Intellectual property rights|IP]] is used defensively to reduce royalty payments to third parties by instead doing [[Cross-licensing]]. It saves costs.

@@ -1,1 +1,0 @@
-[[Business model innovation]] where management actively makes modular changes to the business model in order to disrupt market conditions.

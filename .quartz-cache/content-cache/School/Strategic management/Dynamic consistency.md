@@ -1,1 +1,0 @@
-In order to be dynamically consistent, a firm has to be able to sustain their [[Competitive advantage]]. It has to neutralize [[Sustaining a competitive advantage#Threats|the associated threats]].

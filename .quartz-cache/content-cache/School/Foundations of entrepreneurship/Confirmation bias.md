@@ -1,1 +1,0 @@
-Interpreting information in a way that confirms someone's own beliefs and giving more weight to evidence in favor of your belief. You then ignore the reality and cognitively adjust it to fit your beliefs.

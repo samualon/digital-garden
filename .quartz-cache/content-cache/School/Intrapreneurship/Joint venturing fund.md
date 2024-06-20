@@ -1,1 +1,0 @@
-A [[Corporate venturing unit]] set up by two different companies.

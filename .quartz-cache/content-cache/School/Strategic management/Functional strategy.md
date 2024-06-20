@@ -1,1 +1,0 @@
-A strategy that focuses on the [[Competitive advantage]] of a function of an [[Strategic Business Unit|SBU]], such as manufacturing, after-sales, product development, marketing, etc.

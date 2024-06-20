@@ -1,1 +1,0 @@
-![[Ansoff's product - mission matrix.png]]

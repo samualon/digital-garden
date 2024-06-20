@@ -1,1 +1,0 @@
-Michael Sandel is een Amerikaanse filosoof die bekend was voor het brengen van filosofie op een verstaanbaar niveau.

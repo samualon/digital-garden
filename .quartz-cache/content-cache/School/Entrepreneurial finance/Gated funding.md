@@ -1,1 +1,0 @@
-An idea has to pass through a set of predetermined goals, or “gates” to progress toward becoming an actual product and receiving additional investments.

@@ -1,2 +1,0 @@
-EBITDA consists of the earnings of a company before [[Interest cost]], [[Tax|Taxes]], [[Deprecation]] and [[Amortization]]. It can be calculated using the [[Gross margin]] and the [[Operating costs|Operating expenses]]:
-$$ EBITDA = Gross \: margin - Operating \: expenses $$

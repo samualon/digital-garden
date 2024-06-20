@@ -1,1 +1,0 @@
-![[Product life cycle.png]]

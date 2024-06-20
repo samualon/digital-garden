@@ -1,1 +1,0 @@
-![[Syllabus SIPM 2023-2024.pdf]]

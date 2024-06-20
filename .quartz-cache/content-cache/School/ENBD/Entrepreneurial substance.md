@@ -1,1 +1,0 @@
-This is the experience, maturity, human and financial capital that you gain as an entrepreneur when getting older.

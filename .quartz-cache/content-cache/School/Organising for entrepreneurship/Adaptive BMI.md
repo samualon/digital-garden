@@ -1,1 +1,0 @@
-[[Business model innovation]] that is an adaptation to changes in the external environment.

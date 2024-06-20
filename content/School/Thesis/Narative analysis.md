@@ -1,1 +1,0 @@
-[[Narative analysis]] focuses on the narratives, or told stories. It tries to pay attention to how certain stories are brought. It provides insights into people's world views and perspectives.

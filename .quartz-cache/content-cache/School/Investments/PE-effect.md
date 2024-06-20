@@ -1,1 +1,0 @@
-Stocks with lower [[PE-ratio]]s provide higher returns.

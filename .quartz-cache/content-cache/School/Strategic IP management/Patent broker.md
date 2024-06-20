@@ -1,1 +1,0 @@
-[[Patent broker]]s are intermediaries that help firms find or sell their [[Intellectual property rights|Intellectual property]]. They reduce the search costs introduced by these activities.

@@ -1,1 +1,0 @@
-*A milestone is a salient event whose achievement reveals important information in a discontinuous way*.

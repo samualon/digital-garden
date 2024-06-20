@@ -1,1 +1,0 @@
-Activities of the business that are not visible to the customers.

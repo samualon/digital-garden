@@ -1,1 +1,0 @@
-An open IP strategy is a strategy where a company has [[Intellectual property rights|IP]] that it needs, but doesn't want to keep it to himself. It needs other companies to make the technology or product popular.

@@ -1,1 +1,0 @@
-The existing [[Intellectual property rights]]

@@ -1,1 +1,0 @@
-Already have prior knowledge from founders, thus higher progress fromm the start and steeper climb than [[Experiential learning]].

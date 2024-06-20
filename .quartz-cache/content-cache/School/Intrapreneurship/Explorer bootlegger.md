@@ -1,1 +1,0 @@
-An [[Explorer bootlegger]] practices [[Bootlegging]] because they like to learn and explore new technologies.

@@ -1,1 +1,0 @@
-$$ Cash \: flow = Net \: income - \Delta NWC - CapEx + Deprication $$

@@ -1,1 +1,0 @@
-![[McKinsey Industry attractiveness-business strength matrix.png]]

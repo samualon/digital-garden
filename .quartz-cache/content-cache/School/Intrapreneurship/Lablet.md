@@ -1,1 +1,0 @@
-A research lab of a company in collaboration with a university.

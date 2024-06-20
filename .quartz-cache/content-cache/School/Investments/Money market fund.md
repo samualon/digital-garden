@@ -1,1 +1,0 @@
-This fund invests in short-term high-quality fixed income [[Money market instrument|instruments from the money market]].

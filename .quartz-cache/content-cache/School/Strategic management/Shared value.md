@@ -1,1 +1,0 @@
-The belief that a company can create profit while also increasing value for society. It can allow a company to improve [[Competitive advantage]] while solving societal problems.

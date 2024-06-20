@@ -1,1 +1,0 @@
-Het [[World Health Organisation]] definieert handicap als een nadeel van het individu ten gevolge van een [[Impairement]] of [[Disability]], dat een beperking of verhindering betekent voor het vervullen van een rol die normaal is.

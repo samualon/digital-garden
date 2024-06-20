@@ -1,1 +1,0 @@
-An outside director who is not employed by the company and gives an objective, outside perspective.

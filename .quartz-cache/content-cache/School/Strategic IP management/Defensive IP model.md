@@ -1,1 +1,0 @@
-[[IP]] is used defensively to create freedom to operate. More focus on getting into the market. This reduces the [[Exclusivity IP model|exclusivity]] of third parties.

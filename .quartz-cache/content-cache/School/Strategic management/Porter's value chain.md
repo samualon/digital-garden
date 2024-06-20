@@ -1,1 +1,0 @@
-![[Porter's value chain.png]]

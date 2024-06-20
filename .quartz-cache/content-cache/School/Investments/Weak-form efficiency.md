@@ -1,1 +1,0 @@
-A market where only past trading data is public.

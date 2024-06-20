@@ -1,1 +1,0 @@
-[[Discourse analysis]] analysis conversations while taking into account the context, language, place or culture it was held in.

@@ -1,1 +1,0 @@
-Leapfrogging involves *out-substituting* a new substitute for the firm's product or process by heavily investing and innovating, which results in even better performance.

@@ -1,1 +1,0 @@
-When a firm grows, it can become cheaper to produce two or more goods, allowing for a lower marginal cost than producing them separately. This is achieved through the [[Synergy|synergies]] of the firm.

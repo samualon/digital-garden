@@ -1,1 +1,0 @@
-A [[Corporate venturing unit|Corporate venturing]] investment in companies for both financial returns as well as learning. This creates some kind of trade-off between the two, so not much learning and not much financial returns.

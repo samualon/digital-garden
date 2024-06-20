@@ -1,1 +1,0 @@
-A fragmented industry is an industry where many different smaller companies exist. $\leftrightarrow$ [[Concentrated industry]] 

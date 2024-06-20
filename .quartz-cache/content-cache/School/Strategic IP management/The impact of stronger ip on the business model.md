@@ -1,2 +1,0 @@
-
-![[IP lifecycles literature.pdf]]

@@ -1,1 +1,0 @@
-First hand data gathered by the *researcher* himself.

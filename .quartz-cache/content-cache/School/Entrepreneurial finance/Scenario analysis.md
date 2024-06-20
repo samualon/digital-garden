@@ -1,1 +1,0 @@
-Construct alternative sets of assumptions and compare the outcomes.
