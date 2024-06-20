@@ -1,0 +1,1 @@
+Motivatie vanuit een externe bron, niet de handeling zelf, zoals geld of een beloning.

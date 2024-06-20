@@ -1,0 +1,1 @@
+A corporation set up a business unit (leg) that is unrelated to the corporations business.

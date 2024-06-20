@@ -1,0 +1,1 @@
+Voorwerpen die door de mens werden ontworpen.

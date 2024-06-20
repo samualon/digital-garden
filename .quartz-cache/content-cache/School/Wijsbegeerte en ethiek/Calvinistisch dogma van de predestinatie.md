@@ -1,0 +1,1 @@
+Gelovigen waren onzeker over [[Predestinatie]]. Calvinisten gingen op zoek naar tekenen en zagen rijkdom en zakelijk succes als zo'n reden.

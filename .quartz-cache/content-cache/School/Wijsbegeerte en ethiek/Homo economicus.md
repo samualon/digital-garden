@@ -1,0 +1,1 @@
+[[John Stuart Mill]] beschreef de *homo economicus* als een asociaal, rationeel, ongebonden individu die gericht is op nutmaximalisatie. Hij neemt een instrumentele houding tegenover relaties.

@@ -1,0 +1,1 @@
+Instead of comparing budgets to previous year budgets, start from a clean sheet and re-evaluate everything.

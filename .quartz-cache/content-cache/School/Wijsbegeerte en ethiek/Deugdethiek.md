@@ -1,0 +1,1 @@
+Binnen de deugdethiek probeert men [[Ethiek|ethisch]] te handelen door in elke situatie te handelen zoals een *deugdzaam persoon* zou handelen in de situatie.

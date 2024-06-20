@@ -1,0 +1,1 @@
+Managers have incentives to grow the resources under their control, such as [[Cash flow]], and are going to make decisions that destroy [[Shareholders|shareholder]] value.

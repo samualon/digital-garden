@@ -1,0 +1,1 @@
+A director who is also an employee of the company, often senior management.

@@ -1,0 +1,1 @@
+Het [[World Health Organisation]] definieert impairement als een verlies of abnormaliteit van psychologische, fysiologische of anatomische structuur of functie.

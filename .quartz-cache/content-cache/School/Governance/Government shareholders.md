@@ -1,0 +1,1 @@
+The government can also be seen as a [[Corporate Governance]] structure.

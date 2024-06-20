@@ -1,0 +1,1 @@
+A [[Defensive patent aggregator]] is a company which sells insurance against [[Non-practicing IP entity|Patent troll]]s. It attempts to find solutions to attacks from these [[Non-practicing IP entity]]s.

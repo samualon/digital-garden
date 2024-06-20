@@ -1,0 +1,1 @@
+![[CR18. Porter - Creating Shared Value.PDF.pdf]]&

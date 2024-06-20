@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "334879121288b664",
+    "type": "split",
+    "children": [
+      {
+        "id": "89a4ced943b8a710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc78b67e6a6ff205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organising for entrepreneurship/(AAA) - Course overview Organizing for entrepreneurship.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44541db41f0d648d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d208a0515c46885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "169abaea400f335d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de1cc76b304ca51d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19c68e90ac173338",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd24d22ce84826d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "82f2311a96fd277e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e132ea4c716706ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Organising for entrepreneurship/(AAA) - Course overview Organizing for entrepreneurship.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1610ef27106555fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Organising for entrepreneurship/(AAA) - Course overview Organizing for entrepreneurship.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2971d4ed98271e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "295f114debf6674c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Organising for entrepreneurship/(AAA) - Course overview Organizing for entrepreneurship.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc78b67e6a6ff205",
+  "lastOpenFiles": [
+    "Organising for entrepreneurship/Absorptive capacity.md",
+    "Organising for entrepreneurship/(AAA) - Course overview Organizing for entrepreneurship.md",
+    "Wijsbegeerte/Filosofie.md",
+    "Wijsbegeerte/(AAA) - Course overview wijsbegeerte.md",
+    "Wijsbegeerte en ethiek/(AAA) - Course overview wijsbegeerte en ethiek.md",
+    "Wijsbegeerte en ethiek/Ethische theoriën.md",
+    "Wijsbegeerte en ethiek/Filosofie en economie.md",
+    "Wijsbegeerte en ethiek/(AAA) - Course overview wijsbegeerte en ethiek 1.md"
+  ]
+}

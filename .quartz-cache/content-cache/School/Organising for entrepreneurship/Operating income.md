@@ -1,0 +1,1 @@
+$$ Operating \: income = Gross \: profit - Operating \: expenses $$

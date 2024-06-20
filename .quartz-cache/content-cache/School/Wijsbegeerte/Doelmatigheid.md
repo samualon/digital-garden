@@ -1,0 +1,1 @@
+De efficiëntie waarmee iets zijn doel vervult.

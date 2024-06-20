@@ -1,0 +1,1 @@
+The new [[Intellectual property rights|Intellectual property]] that will be jointly developed during [[R&D partnerships and IP|R&D partnership]].

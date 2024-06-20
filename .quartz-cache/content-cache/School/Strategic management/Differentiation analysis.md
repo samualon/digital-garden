@@ -1,0 +1,2 @@
+# History
+Some strategists put a greater focus on the customers. Instead of always trying to offer the lowest prices using the lowest costs to customers, differentiation as a way to capture a premium was considered.

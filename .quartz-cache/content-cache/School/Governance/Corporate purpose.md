@@ -1,0 +1,1 @@
+In recent years, the focus in companies have shifted from [[Shareholders]] to [[Corporate governance stakeholders|Stakeholders]]. There's a shift to long-term sustainable value creation that take into account social impact.

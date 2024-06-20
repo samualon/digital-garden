@@ -1,0 +1,1 @@
+Percentage van de opbrengst van de verkoop van de technologie wordt geëist van degene die de gepattenteerde technologie gebruikt.

@@ -1,0 +1,1 @@
+These capabilities are essential for day-to-day functioning and maintaining basic competitiveness in the market.

@@ -1,0 +1,5 @@
+- [[IP value models]]
+- [[Stick licensing]]
+- [[Carrot licensing]]
+- [[IP licensing process]]
+- [[Standard Essential Patents]]
