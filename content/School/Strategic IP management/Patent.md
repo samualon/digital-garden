@@ -11,8 +11,8 @@ This right lasts for 20 years from the filling date of the patent.
 These rights can be sold or used in [[IP licensing]] deals.
 # Conditions
 Three conditions have to be met in order to be able to receive a patent for your invention:
-1. Novelty (not part of public domain)
-2. Inventive step (not obvious)
+1. Novel (not part of public domain)
+2. Inventive (not obvious)
 3. Useful (industrial application)
 
 One should try to have the broadest possible scope of the patent, while still being novel.

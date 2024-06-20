@@ -1,4 +1,5 @@
 - [[Case HP nanotech]]
+- [[Managing intellectual property in R&D alliances by Teng]]
 
 1. [[University-firm collaboration]]
 2. [[Managing IP in R&D alliances]]

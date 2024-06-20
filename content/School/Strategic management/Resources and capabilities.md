@@ -8,7 +8,7 @@
 ## Value chain
 Each part of the value chain requires different types of capabilities. The [[Basic capabilities]] are directly related to parts of the [[Value chain]]. *[[Integrative and directive capabilities]]* are required to support steer and integrate all capabilities.
 # Dimensions
-[[Basic capabilities]] have three sequential dimensions:
+[[Basic capabilities]] have five sequential dimensions:
 
 | Step | Dimension  | Example                  |
 | ---- | ---------- | ------------------------ |

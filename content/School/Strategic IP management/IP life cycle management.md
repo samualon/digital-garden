@@ -1,4 +1,4 @@
-IP [[IP life cycle management]] offers a way to strategically manage R&D efforts of [[Intellectual property rights|IP]].
+[[IP life cycle management]] offers a way to strategically manage R&D efforts of [[Intellectual property rights|IP]].
 # Phases
 [[IP life cycle management]] proposes three phases of R&D efforts to performance and market adoptation:
 1. Develop and protect the technology
@@ -11,7 +11,7 @@ In the first stage, companies should:
 - Protect [[Intellectual property rights|IP]]
 	- Apply for [[Patent]]s, [[Design right]]s, [[Trademark]]s
 	- Apply [[Trade secret]]s
-	- [Defensive publishing]]
+	- [[Defensive publishing]]
 - Create [[Intellectual property rights|IP]] portfolios
 	- [[Offensive blocking]] (in discrete product industries)
 	- [[Defensive blocking]] (in complex product industries)

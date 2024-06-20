@@ -5,6 +5,7 @@
 3. [[Financial plan]]
 4. [[Ownership and valuation]]
 5. [[Entrepreneurial firm valuation]]
+6. [[Term sheets]]
 
 ---
 2. Financial planning, returns, ownership and valuation

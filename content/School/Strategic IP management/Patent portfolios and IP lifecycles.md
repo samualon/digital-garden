@@ -1,4 +1,5 @@
 - [[Case Alnylam Pharmaceuticals]]
+- [[The impact of stronger ip on the business model]]
 
 1. [[Patent blocking]]
 2. [[Patent pool]]

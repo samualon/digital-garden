@@ -1,0 +1,1 @@
+The tendency of people to draw hasty conclusions from small sample sizes, often leading to inaccurate or misleading interpretations.

@@ -8,6 +8,7 @@ A firm can choose to specialize a wide range of varieties of the product, or spe
 - [[Product specialization focus]]
 # Product, customer and geographical scope
 ![[Niche geographical focus.png]]
+
 A firm can choose to focus on a geographical area where it targets all customers or it can focus on a niche in different geographical areas.
 # Implications
 These three component combinations determine the:

@@ -6,6 +6,7 @@
 5. [[IP valuation]]
 6. [[IP markets, intermediaries and Patent sharks]]
 7. [[Global IP strategies]]
+8. [[Testimonial Philips IP]]
 # Description
 This course aims to learn practices for successfully design and implement [[Intellectual property rights|IP]] strategies in entrepreneurial and technology-driven firms. It's not a law course, purely strategy.
 

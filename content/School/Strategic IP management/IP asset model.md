@@ -1,0 +1,1 @@
+Using [[Intellectual property rights|IP]] to create new partnerships or [[Joint venture]]s.

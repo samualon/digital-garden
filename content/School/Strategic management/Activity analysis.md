@@ -41,4 +41,5 @@ The [[Value curve]] is a useful way of graphically representing the [[Willingnes
 - Changing the scope of targeted customers can be the most impactful strategic decision.
 # Implications of the value chain
 ![[Impact of value chain on WTP and costs.png]]
+
 Activities thus have an impact on the wedge between the [[Willingness to pay|WTP]] and costs by impacting either or both of these factors.

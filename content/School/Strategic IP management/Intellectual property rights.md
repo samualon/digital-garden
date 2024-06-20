@@ -2,6 +2,7 @@
 aliases:
   - Intellectual property
   - IP
+  - IPR
 ---
 [[Intellectual property rights]] provides exclusive rights to an inventor's or company's intellectual property.
 # Motivation

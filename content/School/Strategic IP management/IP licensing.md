@@ -11,9 +11,10 @@ An oversight of the previous paragraph is the potential of learning by the licen
 ![[Trade-off IP licensing.png]]
 # Components
 A licensing deal consists of four components:
-1. Scope and payments
-2. Obligations of licensor and licensee
-3. Duration and termination
+1. Scope 
+2. Payments
+3. Obligations of licensor and licensee
+4. Duration and termination
 ## Scope
 Multiple options:
 - Exclusive or non-exclusive license?
