@@ -11,6 +11,7 @@ When cash flow from [[Common stock]] exceeds those from the [[Convertible stock]
 $$ F_{INV} * X = PT $$
 This gives the following Conversion threshold ($CT$):
 $$ CT = \frac{PT}{F_{INV}} $$
+This implies:
 
 ![[Convertible stocks treshold.png]]
 ## The investors perspective

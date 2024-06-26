@@ -1,0 +1,1 @@
+A tag-along right allows an investor to also sell his shares when the founder does so, under the same conditions and pricing.

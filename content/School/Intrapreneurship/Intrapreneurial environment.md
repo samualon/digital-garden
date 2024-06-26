@@ -1,3 +1,7 @@
+- [[Case 3M Optical Systems]]
+- [[Case Intrapreneurship at Alcatel-Lucent]]
+
+
 [[Corporate entrepreneurship|Intrapreneurship]] requires two components:
 1. Entrepreneurial profiles
 2. Entrepreneurial environment
@@ -6,15 +10,15 @@
 
 Intrapreneurship requires:
 
-| Profiles              | Environment        |
-| --------------------- | ------------------ |
-| Proactive personality | Management support |
-| Proactive behavior    | Decision autonomy  |
-|                       | Available time     |
+| Profiles              | Environment |
+| --------------------- | ----------- |
+| Proactive personality | Support     |
+| Proactive behavior    | Autonomy    |
+|                       | Time        |
 
 However, a strong entrepreneurial environment decreases the impact of entrepreneurial profiles as in this environment even less entrepreneurial profiles can practice [[Corporate entrepreneurship|Intrapreneurship]].
 
-An entrepreneurial environment in a company requires five elements:
+An entrepreneurial environment in a company requires four elements:
 1. [[#Organizational ownership and resources]]
 2. [[#Management support]]
 3. [[#Building and office design]]
@@ -54,7 +58,7 @@ Different manager types have different roles in the supporting of [[Corporate en
 
 |                         | Operational-level manager                                                   | Senior-level manager                                                                                          | Top-level manager                                                                               |
 | ----------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| **Role**                | Entreprene                                                                  | Supportive coach                                                                                              | Institutional leader                                                                            |
+| **Role**                | Entrepreneur                                                                | Supportive coach                                                                                              | Institutional leader                                                                            |
 | **Key activity**        | Creating and pursuing growth opportunit                                     | $\leftarrow$ supporting the operational-level manager in this                                                 | Institutionalizing norms and values to support [[Corporate entrepreneurship\|Intrapreneurship]] |
 | **Character  Creative** | - Creative<br>- Pervasive<br>- Motivates people<br>- Expert on the business | - Supportive attitude<br>- People management skills<br>- Delegate<br>- Create good relationships<br>- High EQ | - Inspiring<br>- Open-minded<br>- Broad experience (multiple industries)                        |
 # Building and office design

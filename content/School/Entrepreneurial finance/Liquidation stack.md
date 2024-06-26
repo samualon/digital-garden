@@ -1,0 +1,1 @@
+The order of seniority of different investors increases over funding rounds.

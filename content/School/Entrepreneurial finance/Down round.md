@@ -1,0 +1,1 @@
+Financing in which a company sells shares of its capital stock at a price per share that is less than the price per share it sold shares for in an earlier financing.

@@ -1,3 +1,5 @@
+- [[Case LEGO]]
+
 The [[Corporate entrepreneurship|Intrapreneurial]] process contains two points of selection, one early on and one later on.
 
 ![[Intrapreneurial process.png]]
@@ -51,7 +53,7 @@ Using the [[McKinsey Three horizons model]], ideas can be categorized in the thr
 
 Since H1 is in the short-term, financial metrics can be estimated accurately and can thus be used for selection.
 
-For ideas in H2 and H2, financial metrics are too uncertain as a basis for selection. Qualitative metrics should be used instead: 
+For ideas in H2 and H3, financial metrics are too uncertain as a basis for selection. Qualitative metrics should be used instead: 
 
 ![[Example qualitative criteria for idea selection.png]]
 

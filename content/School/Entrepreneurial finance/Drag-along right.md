@@ -1,0 +1,1 @@
+A [[Drag-along right]] offers an investor the right to force the founders to also sell their shares when the investor does so.

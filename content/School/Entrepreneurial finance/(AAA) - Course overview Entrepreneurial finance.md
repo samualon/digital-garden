@@ -6,6 +6,11 @@
 4. [[Ownership and valuation]]
 5. [[Entrepreneurial firm valuation]]
 6. [[Term sheets]]
+7. [[Investment deal structuring]]
+8. [[Entrepreneurial corporate governance]]
+9. [[Staged financing]]
+
+- [[Guest lecture KICK]]
 
 ---
 2. Financial planning, returns, ownership and valuation

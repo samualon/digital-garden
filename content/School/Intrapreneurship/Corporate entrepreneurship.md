@@ -2,6 +2,7 @@
 aliases:
   - Intrapreneurship
 ---
+- [[Case Dow Chemicals]]
 # Definition
 [[Corporate entrepreneurship]] or [[Corporate entrepreneurship|Intrapreneurship]] is a system which allows employees to act like an [[Entrepreneurship|Entrepreneur]] inside an organization. It requires two pivotal things:
 1. Entrepreneurial profiles in the company
@@ -27,6 +28,8 @@ These turbulent environments force companies to be dynamic and change, allowing 
 Firms should be ambidextrous to be able to efficiently support [[Corporate entrepreneurship|Intrapreneurship]] while achieving long-term performance. They have to practice two important activities:
 1. **Exploitation** of existing business, driven by **managers**.
 2. **Exploration** of new business, driven by **entrepreneurs**.
+
+They can achieve this using an [[Ambidextrous organization]] structure.
 ## Research
 A research that used [[Patent]]s to identify how much a firm invests in existing or new technologies showed that the best performing firms are ambidextrous with an optimal proportion of 80% exploitation - 20% exploration.
 ## McKinsey Three horizons model

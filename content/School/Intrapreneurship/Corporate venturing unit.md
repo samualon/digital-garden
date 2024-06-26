@@ -13,10 +13,10 @@ Two corporations can set this up jointly using a [[Joint venturing fund]].
 When disruptive innovations emerge, corporate venturing increases (f.e. the internet).
 # Success factors
 There are five success factors for a [[Corporate venturing unit]]:
-1. Goal clarity and focus
+1. Goals
 2. Long-term commitment
-3. Critical mass of investment
-4. Autonomy of the [[Corporate venturing unit]]
+3. Investment
+4. Autonomy
 5. Adjacency
 ## Goal clarity and focus
 The goals of the venturing should be clearly defined: 

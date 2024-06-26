@@ -13,7 +13,7 @@ The [[Design thinking]] methodology can be used to generate good ideas.
 2. Brainstorming and selecting new ideas
 3. Implementing solutions
 ## Characterizing the problem
-The team starts of with characterizing the product or service to gain a good understanding of it. They pay attention to four pivotal aspects:
+The team starts off with characterizing the product or service to gain a good understanding of it. They pay attention to four pivotal aspects:
 1. Performance
 2. Harm / durability
 3. Convenience
@@ -35,7 +35,7 @@ Additionally, the team can rely on:
 - User surveys
 - A sketch of the [[Customer journey]]
 ### Selecting
-Now, the team has to select the best ideas. They have to go for divergence during brainstorming to convergence in selection.
+Now, the team has to select the best ideas. They have to go from divergence during brainstorming to convergence in selection.
 ## Implementing solutions
 Finally, the solutions from the previous step have to be implemented into the customer's product. 
 

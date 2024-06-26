@@ -1,0 +1,1 @@
+This right offers an investor the right to force back a buy-back of the company of his shares. 

@@ -11,5 +11,6 @@ Milestones can be used as conditions in the [[Term sheets|Term sheet]], these ca
 Additional funding is often conditional to these milestones.
 
 Milestones have drawbacks:
+- Entrepreneur quickly tries to put prototype together because of the time constraint.
 - Bringing a product to the market to early.
 - Short-term vision
