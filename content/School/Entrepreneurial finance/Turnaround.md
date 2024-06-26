@@ -1,0 +1,1 @@
+When a company is struggling to raise funding, it might drop its valuation to attract outside investors and avoid closing down. In such a scenario, a [[Wash-out]] is probable.

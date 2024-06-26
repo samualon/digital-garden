@@ -1,0 +1,1 @@
+A service where a third party will take over the claims of a firm and pay the firm the total amount minus a fee. The third party will then personally try to receive the claims.

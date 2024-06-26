@@ -1,0 +1,1 @@
+[[Negative covenants]] punish the borrower for taking actions that are undesired in the debt arrangement, such as being punished if they payout dividends before loan repayments.

@@ -1,0 +1,1 @@
+Debt that is secured by collateral.

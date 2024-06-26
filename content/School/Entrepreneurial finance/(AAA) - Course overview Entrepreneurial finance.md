@@ -9,6 +9,8 @@
 7. [[Investment deal structuring]]
 8. [[Entrepreneurial corporate governance]]
 9. [[Staged financing]]
+10. [[Debt financing]]
+11. [[Exit]]
 
 - [[Guest lecture KICK]]
 

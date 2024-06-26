@@ -58,3 +58,19 @@ Inside investors can protect themselves from such lower valuations by incorporat
 - [[Anti-dilution mechanism]]
 - [[Pre-emption right]]
 - Right of refusal: allows the company to buy shares from an insider at the same conditions as the offers from an outsider.
+# Down rounds
+Structuring a [[Down round]] might be challenging because:
+- needs consent of inside investors (don't want to dilute).
+- need to find interested outside investors.
+
+During a [[Down round]], both a [[Turnaround]] and a [[Wash-out]] can occur.
+# Choices
+During staged financing, both investors as [[Entrepreneurship|Entrepreneur]]s need to make important decisions:
+
+| Investors                         | Entrepreneurs                   |
+| --------------------------------- | ------------------------------- |
+| First investment timing           | Choice of investors             |
+| Reinvesting or opting out         | Amount of money to raise        |
+| Reinvestment amounts              | What valuation profile to build |
+| Who to co-invest with             | Choice of exit type             |
+| Structuring staging to reach exit |                                 |
