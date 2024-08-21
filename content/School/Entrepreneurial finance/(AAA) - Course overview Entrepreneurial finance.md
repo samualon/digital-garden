@@ -4,7 +4,15 @@
 2. [[Evaluating a business opportunity]]
 3. [[Financial plan]]
 4. [[Ownership and valuation]]
-5. [[Firm valuation methods]]
+5. [[Entrepreneurial firm valuation]]
+6. [[Term sheets]]
+7. [[Investment deal structuring]]
+8. [[Entrepreneurial corporate governance]]
+9. [[Staged financing]]
+10. [[Debt financing]]
+11. [[Exit]]
+
+- [[Guest lecture KICK]]
 
 ---
 2. Financial planning, returns, ownership and valuation

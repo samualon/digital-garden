@@ -1,0 +1,1 @@
+[[Affirmative covenants]] are used to try to induce the desired behavior from a borrower, such as requiring financial reporting.

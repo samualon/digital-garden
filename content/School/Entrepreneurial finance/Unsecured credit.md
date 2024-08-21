@@ -1,0 +1,1 @@
+Debt that isn't secured by collateral.

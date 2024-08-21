@@ -1,0 +1,1 @@
+An [[Anti-dilution mechanism]] where the ownership of shares of an investor of an early round is recalculated using the current round share price.

@@ -1,0 +1,1 @@
+An instruction to trade only at a price specified by the trader or better. In case of a buy order, the same price **or lower**. In case of a sell order, the same price **or higher**.

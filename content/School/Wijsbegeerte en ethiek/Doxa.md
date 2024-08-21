@@ -1,1 +1,1 @@
-Doxa is de verzameling van publieke opinies die werden bediscussiëerd.
+Doxa is de verzameling van publieke opinies die werden bediscussiëerd. Hier wordt een *waarheid* gevormd door de uitwisseling van opinies. Dit staat tegenover de [[Aletheia]].

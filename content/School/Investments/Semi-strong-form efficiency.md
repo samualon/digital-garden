@@ -1,1 +1,1 @@
-A market where only past trading data and public information about prospects of firms are available.
+The information set of the market contains all the publicly available information.

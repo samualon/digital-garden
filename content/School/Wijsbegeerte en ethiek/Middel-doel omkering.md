@@ -1,0 +1,1 @@
+Bij het ontstaan van het kapitalisme werd geld niet meer als middel, maar als doel gezien.

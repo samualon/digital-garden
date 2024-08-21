@@ -1,0 +1,1 @@
+Credit that your suppliers give you. They allow you to wait a certain period before having to pay them.

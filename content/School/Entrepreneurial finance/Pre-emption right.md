@@ -1,0 +1,1 @@
+A right that allows investors to buy the amount of shares needed to protect against dilution in future fund raising rounds.

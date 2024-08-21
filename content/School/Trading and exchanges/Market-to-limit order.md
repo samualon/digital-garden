@@ -1,0 +1,1 @@
+A [[Market-to-limit order]] is a market order that only execute buys and sells of the asset at a specific price. If the depth is too low to fully complete the order, then the order is transformed into a [[Limit order]] with this price.

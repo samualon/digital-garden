@@ -1,0 +1,1 @@
+Talenten zijn je eigendom.

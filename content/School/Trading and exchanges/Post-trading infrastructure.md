@@ -1,0 +1,1 @@
+A set of rules used inside the [[Market microstructure]] of financial markets that apply to the [[Trade clearing]] and [[Trade settling]] after a trade.

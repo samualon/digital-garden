@@ -1,0 +1,1 @@
+A limit order that can be executed immediately, thus if the buy price is higher than the highest [[Limit order]] or if the sell price is lower than the lowest [[Limit order]].

@@ -1,4 +1,4 @@
-Boo.com was a [[Start-up]]  online shop with a high growth ambition. From the start they had a world-wide market orientation, which is why they required $ 185 million to start up. Eventually the firm got liquidated after only 18 months.
+Boo.com was a [[Startup]]  online shop with a high growth ambition. From the start they had a world-wide market orientation, which is why they required $ 185 million to start up. Eventually the firm got liquidated after only 18 months.
 
 ## How investors got attracted to the start-up
 Several factors attracted the attention of investors:

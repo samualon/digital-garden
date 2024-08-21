@@ -1,0 +1,1 @@
+Deze methode van omgaan met ongelijkheid houdt in de natuurlijke en sociale ongelijkheid vrij te laten gebeuren. Dit laat de markt z'n vrij gang gaan om een [[Pareto efficiency]]  te bereiken.

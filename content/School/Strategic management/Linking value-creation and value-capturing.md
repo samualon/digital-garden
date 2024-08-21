@@ -1,0 +1,1 @@
+A [[Business model]] is crucial as it indicates how [[Value-creation]] and a [[Competitive advantage]] are related to the [[Value-capturing]] of the firm.

@@ -1,0 +1,1 @@
+![[Managing intellectual property in R&D alliances by Teng.pdf]]

@@ -1,0 +1,1 @@
+Dit is een vorm van het begrijpen van waarheid als de onthulling van de echte waarheid (zoals waarzeggers). Dit staat tegenover [[Doxa]].

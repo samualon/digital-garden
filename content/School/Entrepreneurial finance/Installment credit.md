@@ -1,0 +1,1 @@
+A credit that has a fixed term, as opposed to [[Revolving credit]].

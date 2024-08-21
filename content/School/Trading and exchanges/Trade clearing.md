@@ -1,0 +1,1 @@
+Everything that happens between the agreement between a buyer and seller and the actual [[Trade settling]]. It checks if the trade is right for both parties.

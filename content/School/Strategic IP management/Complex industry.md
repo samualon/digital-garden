@@ -1,0 +1,1 @@
+An industry where firms create products with multiple components, unlike a [[Discrete industry]].

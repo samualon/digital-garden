@@ -1,0 +1,1 @@
+Rechtvaardigheid in de zin dat toegebrachte schade moet gecompenseerd worden.

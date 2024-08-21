@@ -1,0 +1,1 @@
+A broker sends all orders to a certain dealer, who then commits to executing the orders at the bests price (or lower).

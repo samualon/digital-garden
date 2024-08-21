@@ -1,0 +1,1 @@
+Deze methode van omgaan met ongelijkheid houdt in om net zoals [[Natuurlijke vrijheid]] ongelijkheid z'n vrije gang te laten gaan, **maar** als iemand hierdoor voordeel krijgt moet dit zorgen voor [[Trickle down economics|Noblesse oblige]].

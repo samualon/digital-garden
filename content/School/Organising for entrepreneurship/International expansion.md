@@ -1,4 +1,4 @@
-[[Start-up]]s have three models for [[International expansion]]:
+[[Startup]]s have three models for [[International expansion]]:
 - [[Staged international expansion model|Staged model]] (focus on [[Experiential learning]])
 - [[Born global international expansion model|Born global model]] (focus on [[Congenital learning]])
 - [[Network international expansion model|Network approach]] (focus on [[Inter-organizational learning]])

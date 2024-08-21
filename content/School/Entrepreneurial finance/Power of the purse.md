@@ -1,0 +1,1 @@
+The power that an investor of a company has in influencing decisions by using the additional money that he could provide to the company as leverage.

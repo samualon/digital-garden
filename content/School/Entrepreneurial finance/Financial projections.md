@@ -1,7 +1,7 @@
 # Relevance
 Financial projections give forecasts of the future
 $$ \Downarrow $$
-Financial plan answers the two [[#Key questions]]
+Financial plan answers the two [[Financial plan#Key questions|key questions]]
 $$ \Downarrow $$
 Business plan proposes a full venture
 

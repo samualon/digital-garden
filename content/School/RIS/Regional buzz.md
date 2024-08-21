@@ -1,5 +1,5 @@
 ## Definitie
-Onintentioneel informeel contact tussen de verschillende spelers in de regio waarbij knowledge uitgewisseld wordt (= knowledge [[spillovers]]) op lokaal niveau (binnen de regio).
+Onintentioneel informeel contact tussen de verschillende spelers in de regio waarbij knowledge uitgewisseld wordt (= knowledge [[Spillovers]]) op lokaal niveau (binnen de regio).
 
 
 ## Voordeel

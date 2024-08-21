@@ -1,7 +1,7 @@
 Jeremy Bentham een Engelse jurist, filosoof en sociaal hervormer. Hij wordt gezien als de vader van het [[Utilitarisme]], meer bepaald een [[Hedonistisch utilitarisme]].
 
 Hij baseerde zijn zich op het aanvankelijke [[Utilitarisme]] van [[David Hume]] en werkte dit verder uit.
-## Hervormingen
+# Hervormingen
 Bentham's [[Utilitarisme]] had invloed op heel wat vlakken in de maatschappij:
 - Legalisering van homosexualiteit
 - Vrouwenrechten

@@ -1,4 +1,3 @@
-## Beschrijving
 Dit [[Utilitarisme]], uitgewerkt door [[Jeremy Bentham]], had een zeer eenvoudig uitgangspunt.
 
 Men streeft plezier en geluk na (link met [[Hedonism]]) en probeert pijn te minimaliseren.

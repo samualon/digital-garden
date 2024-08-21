@@ -1,1 +1,1 @@
-A market where only past trading data is public.
+The information set of the market contains the history of prices.

@@ -1,0 +1,1 @@
+Niet universieel geldende [[Imperatieven]], maar conditioneel, ze hangen af van een voorwaarde. Bijvoorbeeld, wie wil slagen moet goed studeren.

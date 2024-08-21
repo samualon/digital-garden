@@ -1,0 +1,1 @@
+Collateral are assets, often tangible, which are seized by a lender in case a borrower defaults on their [[Debt financing]].

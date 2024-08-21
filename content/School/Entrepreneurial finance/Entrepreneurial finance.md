@@ -4,7 +4,10 @@
 3. [[#Importance]]
 4. [[#Frameworks]]
 # Definitions
-[[Entrepreneurial finance]] is the provision of funding to young (younger than 10 years), innovative (either through technology or the [[Business model]]) and growth-oriented (unlike [[SME]]s) companies.
+[[Entrepreneurial finance]] is the provision of funding to companies that are:
+- young (younger than 10 years)
+- innovative (either through technology or the [[Business model]])
+- growth-oriented (unlike [[SME]]s)
 
 This entrepreneurial process can be defined using [[Fundamental principles of entrepreneurship|three fundamental principles]].
 # Challenges
@@ -20,7 +23,7 @@ This makes choosing a project to fund costly.
 ## Importance for entrepreneurs
 For entrepreneurs, funding is crucial to be able to have enough resources to complete the project. Furthermore, investors can impact the development of the project.
 ## Importance for investors
-Investors search for [[Diversification]] of their portfolios and search for high returns.
+Investors search for [[Corporate diversification]] of their portfolios and search for high returns.
 
 Additionally, they want to pass on their knowledge and expertise.
 ## Importance for society and the economy
@@ -33,7 +36,7 @@ Entrepreneurship has a positive impact on:
 > [[Bob Solow (1987)]]
 
 Several studies have shown that innovation through entrepreneurship contributes to economic growth:
-- Chemmanur et al. (2011, Review of Financial Studies): *Start-ups that have received Venture Capital (VC) funding have significantly higher TFP than a control group of [[Start-up]]s without it.*
+- Chemmanur et al. (2011, Review of Financial Studies): *Start-ups that have received Venture Capital (VC) funding have significantly higher TFP than a control group of [[Startup]]s without it.*
 - Kortum & Lerner (2000, RAND Journal of Economics): *VC generates more innovative outputs (as measured by patent rates) than corporate R&D spending.*
 - Samila & Sorenson (2011, Review of Economics & Statistics): *Increases in local VC funding increase the local start-up rate, employment, and aggregate income.*
 ### Job creation

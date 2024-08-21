@@ -1,5 +1,5 @@
 A financial plan uses [[Financial projections]] to give insights on the (future) financials of the venture.
-# Key questionscomited
+# Key questions
 A financial plan answers two key questions:
 > How financially attractive is the venture?
 > *(Financial goals)* 
@@ -20,7 +20,7 @@ Financial planning is advised for a startup because:
 # Behavioral biases during pitching
 Several biases can have an impact on the [[Financial projections]] and pitch of the [[Financial plan]]:
 - [[Framing]]
-- [[Sunk cost fallacy]]
+- [[Sunk-cost fallacy]]
 - [[Over-optimism]]
 # Long- and short-term
 A financial plan consists of a long-term plan and a short-term plan. These both focus on different aspects of a company and the components of the balance sheet.

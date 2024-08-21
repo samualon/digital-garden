@@ -1,0 +1,1 @@
+Het wegnemen van het sacrale, het van religieuze betenekenis.

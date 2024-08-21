@@ -2,6 +2,7 @@
 aliases:
   - Industry value chain
 ---
+![[Value chain strategic management.png]]
 This provides a snapshot of your industry structure and the players you will need to work with to do business, in a linear fashion. $\leftrightarrow$ [[Value network]]
 
 The key concept of the industry value chain is [[Complementary asset]].

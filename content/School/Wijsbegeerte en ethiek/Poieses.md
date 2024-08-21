@@ -1,1 +1,1 @@
-'The creation or production'.
+Een activiteit waarbij een scheiding bestaat tussen de activiteit zelf en een extern doel of resultaat. Niet zoals [[Praxis]].

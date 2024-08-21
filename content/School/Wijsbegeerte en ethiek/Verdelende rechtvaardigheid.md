@@ -1,0 +1,1 @@
+Rechtvaardigheid in de verdeling van goederen, zoals volgens [[John Rawls]].

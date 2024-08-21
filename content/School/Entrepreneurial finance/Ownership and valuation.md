@@ -2,17 +2,19 @@ Ownership and determining the value of the company are central parts in investin
 - it determines how much ownership the investor receives for a given investment.
 - it allows the investor to estimate expected returns. 
 # Notation
-| Symbol    | Meaning                                                                       |
-| --------- | ----------------------------------------------------------------------------- |
-| $I$       | Investment                                                                    |
-| $F$       | Ownership share                                                               |
-| $V$       | Valuation                                                                     |
-| $S$       | Number of shares                                                              |
-| $S_{inv}$ | New investors shares                                                          |
-| $r$       | Investment round 1, 2, 3, ... , $R$                                           |
-| $i$       | The round where an investor investes                                          |
-| $F_i(r)$  | The ownership fraction in round $r$ of an investor that invested in round $i$ |
-| $X_{ent}$ | Entrepreneurial gains                                                         |
+| Symbol     | Meaning                                                                       |
+| ---------- | ----------------------------------------------------------------------------- |
+| $I$        | Investment                                                                    |
+| $F_x$      | Ownership share of person $x$                                                 |
+| $V$        | Valuation                                                                     |
+| $S$        | Number of shares                                                              |
+| $S_{pre}$  | Pre-deal owner shares                                                         |
+| $S_{post}$ | Post-deal owner shares                                                        |
+| $S_{inv}$  | New investors shares                                                          |
+| $r$        | Investment round 1, 2, 3, ... , $R$                                           |
+| $i$        | The round where an investor investes                                          |
+| $F_i(r)$   | The ownership fraction in round $r$ of an investor that invested in round $i$ |
+| $X_{ent}$  | Entrepreneurial gains                                                         |
 # Mechanics
 Two important mechanics of ownership and valuation exist:
 - [[Implied valuation]]
@@ -67,6 +69,7 @@ Three standard measures of returns:
 | --------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------- |
 | *Advantages*    | - Time horizon taken into account<br>- Compare investments with different time horizons | - Time horizon taken into account                                                     | - Easy to use                             |
 | *Disadvantages* | - Need for a correct discount rate                                                      | - Can't compare investments with different time horizons (without making assumptions) | - Time horizon **not** taken into account |
+
 For decision-making, the [[Net Present Value|NPV]] should thus be used, but it's not uncommon for reporting to use [[Internal rate of return|IRR]] and [[Cash on cash multiple|CCM]].
 ## Valuation and returns
 For company-level exits using $CCM = \frac{X}{V_{post}}$:

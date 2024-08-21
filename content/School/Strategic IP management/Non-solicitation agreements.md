@@ -1,0 +1,1 @@
+An agreement where ex-employees can't solicit a company's clients.

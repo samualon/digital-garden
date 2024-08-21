@@ -1,0 +1,1 @@
+Welvaart en effectenbezit voor grote lagen van de bevolking.

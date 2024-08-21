@@ -1,0 +1,1 @@
+Institutional voids are economies with limited institutions to support market mechanisms. This can hinder the effectiveness and performance of firms operating in such environments.

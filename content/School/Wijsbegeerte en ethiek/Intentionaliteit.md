@@ -1,0 +1,1 @@
+Het denken of de ervaring is altijd gericht op iets (anders). Het denken is geen afgesloten *doos* voor gedachten en percepties. Denken is altijd gericht naar iets.

@@ -15,6 +15,8 @@ title: Index
 - [[(AAA) - Course overview Strategic management|Strategic management]]
 - [[(AAA) - Course overview Strategic IP management|Strategic IP management]]
 - [[(AAA) - Course overview Entrepreneurial finance|Entrepreneurial finance]]
+- [[(AAA) - Course overview Intrapreneurship|Intrapreneurship]]
+- [[Trading and exchanges]]
 - [[Thesis Start-up studios|Thesis]]
 
 ## Literature

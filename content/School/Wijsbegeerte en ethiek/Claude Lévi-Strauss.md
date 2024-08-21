@@ -1,0 +1,1 @@
+Claude Lévi-Strauss was een Frans cultureel antropoloog.

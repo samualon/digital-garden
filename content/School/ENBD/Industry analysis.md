@@ -65,3 +65,6 @@ These trends are specific to the economical part of the businesses in the market
 - Are new markets opening or are old markets being shut down?
 ### Industry long-term prospects
 This part acts as a summary of all of the above and shouldn't contain any new information. You will use the gathered information to form a brief statement of your believes about the industry in 3 to 5 years.
+
+## Cost analysis
+In the 1970s, strategists started to make more distinctions between cost drivers. The cost structures were disaggregated into multiple parts.

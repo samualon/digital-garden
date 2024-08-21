@@ -1,0 +1,1 @@
+Een economisch systeem waarin de meeste goederen door de producenten voor de consumptie door anderen worden gemaakt en worden verdeeld via een systeem van handel.

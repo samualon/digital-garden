@@ -14,6 +14,5 @@ Ford's lawyers had two arguments:
 No laws existed that prohibited the placement of the fuel tank under the rear axis.
 ### Utilitarian argument
 The cost to fix all cars would be 137 million USD. The cost if they didn't fix it would be 49.5 million USD 
-($49.5M = 180 \: deaths * 200K + 180 \: burns * 67K + 2100 \: cars * 700$ ).
-
+$$ 49.5M = 180 \: deaths * 200K/Death + 180 \: burns * 67K/burn + 2100 \: cars * 700/car $$
 Since fixing the cars would cost more and thus reduce utility more than leaving it as is, the case got dismissed.

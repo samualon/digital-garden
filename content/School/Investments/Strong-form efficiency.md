@@ -1,1 +1,1 @@
-A market where past trading information, public information and private information is public.
+The information set of the market contains all the public and private information (this includes the private information of each market participant).

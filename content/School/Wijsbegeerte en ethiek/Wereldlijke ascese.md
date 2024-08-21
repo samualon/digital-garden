@@ -1,0 +1,1 @@
+[[Ascetisme]] in de vorm van hard, rationeel en systematisch werken en daarbij beperkt mogen genieten van verdiend geld.

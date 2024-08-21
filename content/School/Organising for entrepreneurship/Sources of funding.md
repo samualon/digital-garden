@@ -29,9 +29,9 @@ Your choice of source of funding depends on the stage of your business:
 - Financial plan
 - [[Marketing plan]]
 - Team knowledge and skills
-- Legal documentation ([[patents]])
+- Legal documentation ([[Patent]])
 
-These funders will want to value the [[Start-up]]. They can do this by:
+These funders will want to value the [[Startup]]. They can do this by:
 - Comparing ownership against capital
 ## Funding rounds
 Startups won't get all funding at one point in time, but multiple [[Funding rounds]] will occur.

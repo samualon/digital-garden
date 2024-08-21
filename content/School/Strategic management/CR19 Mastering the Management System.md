@@ -1,0 +1,3 @@
+Some companies that have trouble with keeping afloat find themselves in [[Gresham's law]]: discussions about bad operations drive out discussions about good strategy implementation. The members are so focused on fixing the short-term to evade failing, that there's no room in meetings to discuss strategy execution.
+
+Such breakdowns in company management can be solved using a [[Closed-loop management system]].

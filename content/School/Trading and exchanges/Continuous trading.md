@@ -1,0 +1,1 @@
+Trading is possible at any point in time (during opening hours).
