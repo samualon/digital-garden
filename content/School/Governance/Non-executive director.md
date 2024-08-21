@@ -1,1 +1,0 @@
-Directors who are not involved in any day-to-day matter of the company.
